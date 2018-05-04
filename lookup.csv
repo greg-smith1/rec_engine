@@ -1,0 +1,1732 @@
+,beer/beerId,beer/brewerId,beer/name,beer/style,beer_ratingcount,beer_average,beer_stdv
+0,175,60,Nine Man Ale Golden Ale,American Blonde Ale,56,3.544642857142857,0.676063375957971
+1,176,60,Benchwarmer Porter,English Porter,92,3.858695652173913,0.5258488007969307
+2,178,60,Strike Out Stout,English Stout,68,3.4779411764705883,0.887028510577704
+3,429,1,Pilsner Urquell,Czech Pilsener,946,3.8350951374207187,0.7084335812815789
+4,436,163,Amstel Light,Light Lager,345,2.752173913043478,0.9111085593251949
+5,454,14,Bannatyne's Scotch Ale,Scotch Ale / Wee Heavy,21,4.142857142857143,0.47809144373375795
+6,503,14,Dunkles Weizen,Dunkelweizen,1,4.0,
+7,505,14,Big Man Ale,American IPA,26,4.211538461538462,0.49341821861534324
+8,507,14,Hefeweizen,Hefeweizen,29,4.275862068965517,0.39156752055387506
+9,508,14,Bitchin' Special Bitter,Extra Special / Strong Bitter (ESB),2,3.5,0.7071067811865476
+10,510,14,Blunderbuss Barley Wine,American Barleywine,28,4.160714285714286,0.38618675746355136
+11,511,14,Beantowne Espresso Stout,American Stout,6,3.9166666666666665,0.3763863263545406
+12,512,14,Regatta Golden,KÃ¶lsch,22,3.8636363636363638,0.9021379128785211
+13,513,14,Tall Tale Pale Ale,American Pale Ale (APA),44,3.8636363636363638,0.5322575478577884
+14,514,14,Cambridge Amber,American Amber / Red Ale,20,3.775,0.6584471365105534
+15,515,14,Charles River Porter,American Porter,44,4.0227272727272725,0.5598436809912902
+16,562,14,Will's Extra Bitter,Extra Special / Strong Bitter (ESB),5,4.4,0.4183300132670376
+17,563,14,BMF Stout,American Stout,1,4.0,
+18,638,14,Blackout Oatmeal Stout,Oatmeal Stout,7,4.214285714285714,0.8091735937126872
+19,727,263,Aecht Schlenkerla Rauchbier MÃ¤rzen,Rauchbier,665,3.8390977443609025,0.7452494717007218
+20,798,289,St. Ides High Gravity Malt Liquor,American Malt Liquor,55,2.2,0.9699179041242308
+21,959,365,Pike Pale Ale,American Pale Ale (APA),54,3.7314814814814814,0.7314560495892993
+22,960,365,Pike India Pale Ale,American IPA,154,3.8636363636363638,0.5370967929000822
+23,961,365,Naughty Nellie's Ale,American Pale Ale (APA),78,3.6346153846153846,0.6628993622229283
+24,962,365,Pike Kilt Lifter Scotch Style Ale,Scotch Ale / Wee Heavy,146,3.702054794520548,0.591837486790045
+25,963,365,Pike Old Bawdy Barley Wine,American Barleywine,71,3.8943661971830985,0.5664141150237955
+26,965,365,Pike Weisse,Hefeweizen,10,3.15,1.001387925719987
+27,966,365,Pike Street XXXXX Stout,American Stout,206,4.050970873786408,0.5022622278143053
+28,967,365,Pike Bootleg Brown,English Brown Ale,2,3.0,0.7071067811865476
+29,1018,263,Aecht Schlenkerla Rauchbier Weizen,Rauchbier,252,3.7698412698412698,0.7103413512263842
+30,1121,395,Altbier,Altbier,68,3.6544117647058822,0.5811552631264097
+31,1122,395,American Pale Ale,American Pale Ale (APA),119,3.8529411764705883,0.6455615778124943
+32,1123,395,Dark Star Porter,English Porter,119,3.689075630252101,0.5674489323646312
+33,1152,394,Stoudts Honey Double MaiBock,Maibock / Helles Bock,18,3.5555555555555554,0.5659164584181104
+34,1154,394,Stoudt's Fest,MÃ¤rzen / Oktoberfest,86,3.813953488372093,0.485353186306917
+35,1324,263,Aecht Schlenkerla Rauchbier Urbock,Rauchbier,433,3.899538106235566,0.7011562996441422
+36,1413,163,Amstel 1870,German Pilsener,3,3.3333333333333335,0.28867513459481287
+37,1414,163,Amstel Lager,Euro Pale Lager,47,2.978723404255319,0.7515017342722818
+38,1415,163,Amstel Gold,Dortmunder / Export Lager,2,3.5,0.7071067811865476
+39,1418,163,Amstel Bock,Bock,12,3.5416666666666665,0.6894771844512245
+40,1492,394,Stoudt's Scotch Style Ale,Scotch Ale / Wee Heavy,17,3.911764705882353,0.5072996561958925
+41,1504,568,Okocim Porter,Baltic Porter,381,4.05249343832021,0.6090331665707107
+42,1521,568,Okocim (Zagloba) Premium Beer,Euro Pale Lager,34,3.588235294117647,0.7634708249401282
+43,1525,568,O.K. Beer,Euro Pale Lager,117,3.735042735042735,0.6649236719633934
+44,1535,574,EMU Bitter,American Adjunct Lager,4,1.75,0.6454972243679028
+45,1536,574,Swan Draught,American Adjunct Lager,5,2.9,0.8215838362577492
+46,1537,574,Swan MID,Light Lager,1,1.0,
+47,1538,574,EMU Draft Midstrength,Light Lager,1,3.0,
+48,1539,574,EMU Export,Dortmunder / Export Lager,4,1.875,1.1086778913041726
+49,1542,576,Lezajsk 1525 Legendary Premium Lager,Euro Pale Lager,59,2.9915254237288136,0.7100966752038722
+50,1546,564,Anglers Ale,American Pale Ale (APA),1,3.0,
+51,1549,394,Stoudt's Abbey Double Ale,Dubbel,35,3.7857142857142856,0.5851811469877652
+52,1550,394,Stoudts American Pale Ale,American Pale Ale (APA),296,3.9324324324324325,0.5768078393665796
+53,1554,568,Okocim Mocne,Euro Strong Lager,72,2.9930555555555554,0.8243352232255945
+54,1557,577,Black Cuillin,Scottish Ale,21,3.8333333333333335,0.639009650422694
+55,1589,395,Professor Gesser's Mind Numbing Ale,American IPA,23,3.4782608695652173,0.99405346560943
+56,1598,60,Old Slugger,American Pale Ale (APA),71,3.5774647887323945,0.6304640429530781
+57,1599,60,Back Yard India Pale Ale,English India Pale Ale (IPA),81,3.4074074074074074,0.7587453093393361
+58,1620,394,Stoudt's Abbey Triple (750ml Release),Tripel,45,4.133333333333334,0.46952587304060855
+59,1621,394,Stoudt's Weizen,Hefeweizen,65,3.9846153846153847,0.6371888380885333
+60,1622,394,Stoudt's Scarlet Lady ESB,Extra Special / Strong Bitter (ESB),272,3.761029411764706,0.5449090508245404
+61,1681,395,ESB,Extra Special / Strong Bitter (ESB),2,3.25,1.0606601717798212
+62,1791,60,Pride Of Milford Special Ale,English Strong Ale,83,3.7228915662650603,0.6591430691888618
+63,1825,394,Stoudt's Anniversary Beer,Doppelbock,11,3.772727272727273,0.41009976613236226
+64,2106,394,Stoudt's Gold Lager,Munich Helles Lager,179,4.153631284916201,0.5782827137251156
+65,2324,394,Stoudt's Fat Dog Stout,American Stout,52,3.951923076923077,0.5073925597139678
+66,2572,807,Batemans XXXB,Extra Special / Strong Bitter (ESB),77,3.9545454545454546,0.5011947448335863
+67,2599,14,Tripel Threat,Tripel,28,4.214285714285714,0.3708990935094581
+68,2718,860,Vermont Smoked Porter,American Porter,23,3.739130434782609,0.7209457995229619
+69,2719,860,Bombay Grab IPA,American IPA,20,3.775,0.5250313273861307
+70,2725,850,Swamp Fox IPA,American IPA,32,3.734375,0.4749257157533919
+71,2726,850,Claire De Lune,KÃ¶lsch,6,3.5833333333333335,0.664580067912563
+72,2740,860,Forbidden Fruit,Fruit / Vegetable Beer,22,3.5681818181818183,0.791253594672562
+73,2776,850,Hefe-Weizen,Hefeweizen,4,4.125,0.25
+74,2780,850,The Captain's Porter,American Porter,20,4.0,0.4588314677411237
+75,2784,765,Trafalgar Abbey Belgian Spice Ale,Belgian Dark Ale,15,2.7666666666666666,0.8632717389316616
+76,2788,14,Abbey Normal,Dubbel,4,3.875,0.24999999999999994
+77,3003,395,Bearded Pat's Barleywine,American Barleywine,61,3.6639344262295084,0.5825326276656805
+78,3274,1075,Caldera Pilsener Bier,German Pilsener,2,3.75,1.0606601717798212
+79,3326,1068,Gilde Pilsener,German Pilsener,12,3.9583333333333335,0.7525210155124432
+80,3365,395,Hell For Certain,Belgian Dark Ale,50,3.62,0.6743099269260545
+81,3386,163,Amstel Bright,Euro Pale Lager,11,3.5454545454545454,1.0357254813546264
+82,3517,394,Stoudt's India Pale Ale,American IPA,35,4.2,0.4405878426135057
+83,3537,14,Pale Mild,English Pale Mild Ale,2,4.25,0.3535533905932738
+84,3606,1315,Weltenburger Kloster Asam-Bock,Doppelbock,209,4.083732057416268,0.5687566102541283
+85,3619,394,Stoudt's Holiday Reserve,Doppelbock,9,3.888888888888889,0.3333333333333333
+86,3804,1413,Latter Days Stout,Irish Dry Stout,7,3.7142857142857144,0.5669467095138407
+87,3806,1413,Pub Pils,Czech Pilsener,4,2.375,1.6520189667999174
+88,3810,1413,Utah Pale Ale,American Pale Ale (APA),8,3.75,0.4629100498862757
+89,3816,1289,Extra Special Bitter,Extra Special / Strong Bitter (ESB),5,3.3,1.0954451150103321
+90,3824,1417,Monty Python's Holy Grail Ale,English Pale Ale,429,3.5442890442890445,0.6990623027842974
+91,3825,1463,Harboe BjÃ¸rnebryg (Bear Beer),Euro Pale Lager,11,3.1363636363636362,0.5518563713009524
+92,3939,1417,Riggwelter Yorkshire Ale,English Brown Ale,178,3.8735955056179776,0.5008800101945128
+93,4014,1315,Weltenburger Hefe-Weissbier Hell,Hefeweizen,66,3.787878787878788,0.5193235693640045
+94,4073,1199,Founders Pale Ale,American Pale Ale (APA),457,3.852297592997812,0.561522225285702
+95,4110,14,Vienna Gold,KÃ¶lsch,12,4.25,0.3988620176087329
+96,4370,1386,Pinnacle Peak Pale Ale,American Pale Ale (APA),8,3.625,0.9161253813129043
+97,4371,1386,Brown's Point ESB,Extra Special / Strong Bitter (ESB),12,3.9583333333333335,0.6894771844512245
+98,4372,1386,Puget Sound Porter,American Porter,15,4.0,0.6546536707079772
+99,4373,1386,Point Defiance IPA,American IPA,29,3.9655172413793105,0.5333692516640701
+100,4374,1386,Rajah's Royal IPA,American Double / Imperial IPA,11,3.772727272727273,0.6842381297339531
+101,4570,14,"CBC E.S.B. ""dank Nugs""",Extra Special / Strong Bitter (ESB),2,3.75,0.3535533905932738
+102,4786,1315,Weltenburger Kloster Barock-Hell,Munich Helles Lager,46,4.076086956521739,0.5160468465421395
+103,4824,1068,Gilde Ratskeller Premium Pils,German Pilsener,3,4.0,0.5
+104,4872,1068,Gilde Lindener Spezial Premium Beer,German Pilsener,5,3.5,0.6123724356957945
+105,4904,1417,Black Sheep Ale (Special),English Pale Ale,252,3.871031746031746,0.6576504470780512
+106,4920,1315,Weltenburger Kloster Barock Dunkel,Munich Dunkel Lager,70,3.857142857142857,0.6975259443663605
+107,5008,1417,Black Sheep Best Bitter,English Bitter,9,4.0,0.4330127018922195
+108,5009,1417,Yorkshire Square Ale,English Pale Ale,6,3.75,0.5244044240850757
+109,5181,1487,Club Premium Lager,American Adjunct Lager,3,3.1666666666666665,0.7637626158259734
+110,5182,1917,REDD'S,Fruit / Vegetable Beer,1,3.5,
+111,5256,14,Wolf's Irish Pub Draft,Irish Red Ale,2,4.0,0.0
+112,5360,1497,IPA,American IPA,3,4.166666666666667,0.28867513459481275
+113,5411,394,Stoudts Pils,German Pilsener,263,4.093155893536122,0.5761403581122125
+114,5441,1199,Founders Centennial IPA,American IPA,1063,4.1481655691439325,0.4566045184935134
+115,5481,2100,Estrella Galicia,American Adjunct Lager,54,2.990740740740741,0.8154796061951495
+116,5487,2098,Terminal Gravity IPA,American IPA,103,3.7524271844660193,0.5976825605414036
+117,5537,1315,Weltenburger Kloster Anno 1050,MÃ¤rzen / Oktoberfest,40,3.875,0.5280588545286922
+118,5547,971,Red Stallion,Vienna Lager,14,3.5,0.4803844614152613
+119,5617,2188,Black Cobra Stout,American Stout,6,3.4166666666666665,0.8010409893798609
+120,5652,1413,Krystal Weis,Kristalweizen,1,2.5,
+121,5657,1413,Road Rage Rye,Rye Beer,1,3.5,
+122,5658,1413,Amber Ale,American Amber / Red Ale,2,3.25,1.0606601717798212
+123,5659,1413,Happy Valley Hefeweizen,Hefeweizen,3,2.5,0.0
+124,5660,1413,Centennial Steam Beer,California Common / Steam Beer,2,3.0,1.4142135623730951
+125,5756,14,"""The Wind Cried Mari..."" Scottish Heather Ale",Scottish Gruit / Ancient Herbed Ale,20,3.95,0.5596051239372654
+126,5761,807,Bateman's Combined Harvest,English Pale Ale,48,3.46875,0.6308239293077225
+127,5916,1,Gambrinus,Czech Pilsener,33,3.6818181818181817,0.6473284258466423
+128,5972,395,Luna De Miel: Raspberry Meade,Braggot,20,3.725,0.5954874164563806
+129,6029,2414,Cascade Amber,American Amber / Red Ale,8,3.1875,0.7039429765866796
+130,6030,2414,Ironwood Dark,English Brown Ale,4,3.375,0.4787135538781691
+131,6034,2414,Mai Bock,Maibock / Helles Bock,3,3.0,0.8660254037844386
+132,6138,807,Batemans Marie Celeste,Hefeweizen,2,2.0,0.7071067811865476
+133,6150,2446,Honest Injun Stout,American Stout,8,3.875,0.44320263021395917
+134,6329,2600,Shakespeare Special Bitter,English Bitter,2,4.5,0.0
+135,6331,2600,Ale To The Tsar,English Pale Ale,1,4.0,
+136,6332,2600,Double Six,American Strong Ale,1,3.0,
+137,6353,14,Endless Summer Pale Ale,American Pale Ale (APA),3,4.5,0.0
+138,6397,2600,Wakefield Pride,English Pale Ale,1,4.5,
+139,6400,2600,Empress Of India,English India Pale Ale (IPA),1,4.0,
+140,6523,14,Great Pumpkin Ale,Pumpkin Ale,76,4.032894736842105,0.5792841922913109
+141,6551,1254,Balashi,American Adjunct Lager,44,3.3863636363636362,0.9330098603858199
+142,6723,2850,Spalter Weisse,Hefeweizen,2,2.75,1.0606601717798212
+143,6761,1199,Founders Noble Lager,American Pale Lager,2,1.75,1.0606601717798212
+144,6769,1315,Weltenburger Kloster Urtyp Hell,Munich Helles Lager,26,3.576923076923077,0.6883648406522187
+145,6824,1454,E.S.B.,Extra Special / Strong Bitter (ESB),11,4.363636363636363,0.5045249791095131
+146,6825,1454,I.P.A.,American IPA,12,3.5833333333333335,0.792961461098759
+147,6968,1315,Weltenburger Hefe-Weissbier Dunkel,Dunkelweizen,27,3.611111111111111,0.6698641270570838
+148,7047,1482,Champion Reserve IPA,American IPA,13,4.115384615384615,0.3625055260409921
+149,7167,1315,Weltenburger Kloster Winter-Traum,MÃ¤rzen / Oktoberfest,55,3.772727272727273,0.5165607581253313
+150,7324,395,Nut Brown Ale,English Brown Ale,84,3.738095238095238,0.4423117697549978
+151,7348,1199,Founders Porter,American Porter,675,4.212592592592593,0.4126036655333011
+152,7360,936,Crystal Bitter Ale,English Bitter,11,3.6363636363636362,0.6360388781713383
+153,7425,1303,Cocker Hoop,English Pale Ale,7,3.357142857142857,0.6900655593423541
+154,7448,670,Riverside Curleys Irish Style Stout,Irish Dry Stout,2,2.75,1.0606601717798212
+155,7463,1199,Founders Dirty Bastard,Scotch Ale / Wee Heavy,983,3.9303153611393693,0.5286849171166175
+156,7516,14,Winter I.P.A.,American IPA,6,4.166666666666667,0.2581988897471613
+157,7672,3268,Unfiltered Wheat,American Pale Wheat Ale,43,3.372093023255814,0.7950218869090667
+158,7673,3268,Gold,American Blonde Ale,45,3.2777777777777777,0.8087276451565166
+159,7675,3268,Smoke (Smoked Porter),American Porter,268,3.800373134328358,0.587223399502671
+160,7693,3282,La Binchoise Blonde Tradition,Belgian Pale Ale,47,3.9893617021276597,0.5756788214429204
+161,7694,3282,La Binchoise Brune Tradition,Belgian Strong Dark Ale,55,3.7545454545454544,0.6076116516262005
+162,7731,14,Bodacious Bitter,English Bitter,5,3.9,0.5477225575051662
+163,7810,1068,Wilkenburger Lager,Munich Helles Lager,2,4.25,0.3535533905932738
+164,7811,1068,Wilkenburger Black,Munich Dunkel Lager,2,4.25,0.3535533905932738
+165,7815,453,Tamno Lasko,English Brown Ale,5,4.0,0.0
+166,7816,453,Lahko Lasko,Light Lager,1,4.0,
+167,7828,2916,Christmas Cheer,English Pale Ale,1,4.5,
+168,7842,453,Roler,Light Lager,1,2.0,
+169,7849,2310,Ichthysaur IPA,American IPA,10,3.75,0.5400617248673217
+170,7956,3524,"Kaiser Pils, Feinherb",German Pilsener,1,3.0,
+171,8102,1917,Lech Premium,Euro Pale Lager,11,3.1818181818181817,0.8146387933534492
+172,8203,807,Rosey Nosey,Winter Warmer,37,3.5675675675675675,0.6027962867863101
+173,8274,765,Trafalgar Celebration Ale,Belgian Dark Ale,17,3.6176470588235294,0.5162791082806462
+174,8284,1454,Wee Alec Heavy,Scotch Ale / Wee Heavy,5,4.2,0.8366600265340756
+175,8310,2916,Jolly Ploughman,English Brown Ale,6,3.0833333333333335,0.49159604012508756
+176,8422,3282,La Binchoise SpÃ©ciale NoÃ«l (Reserve Special - USA),Belgian Strong Pale Ale,91,3.989010989010989,0.6190405747697267
+177,8424,14,Golden Ring Abbey Ale,Belgian Pale Ale,8,4.0625,0.32043497223082784
+178,8514,850,Bay Street Brown Ale,English Brown Ale,3,3.6666666666666665,0.2886751345948129
+179,8555,1315,Weltenburger Pils,German Pilsener,58,3.9310344827586206,0.5416695751236539
+180,8575,14,Bourbon Barrel Aged Porter,Baltic Porter,4,4.25,0.5
+181,8590,765,Paddy's Irish Red,Irish Red Ale,21,2.8095238095238093,0.7980631315283034
+182,8679,1199,Founders Red Eye Amber Ale,American Amber / Red Ale,6,4.166666666666667,0.2581988897471613
+183,8717,850,Savannah Fest Beer,MÃ¤rzen / Oktoberfest,15,3.5,0.6546536707079773
+184,8769,2724,Columbus India Pale Ale,American IPA,1,4.0,
+185,8770,2724,Killer Whale Stout,American Stout,3,4.166666666666667,0.28867513459481275
+186,8869,765,Winter Warmer,Winter Warmer,3,3.1666666666666665,0.7637626158259734
+187,8950,2446,Firewater IPA,American IPA,32,3.6875,0.6189220598177387
+188,8999,3351,Caffrey's Premium Beer,English Pale Ale,7,3.0714285714285716,0.5345224838248488
+189,9117,1303,Jennings Cumberland Ale,English Pale Ale,17,3.5294117647058822,0.44967308386531335
+190,9118,1303,Jennings Sneck Lifter,Extra Special / Strong Bitter (ESB),29,3.7586206896551726,0.6068167771125171
+191,9200,4103,Breznak Svetly LezÃ¡k,Czech Pilsener,4,3.625,0.25
+192,9238,3965,Santa Rosa Red,American Amber / Red Ale,1,3.5,
+193,9239,3965,Hurricane Hefeweizen,Hefeweizen,1,3.0,
+194,9240,3965,Pierpont India Pale Ale,American IPA,3,3.8333333333333335,0.5773502691896257
+195,9241,3965,Chocolate Raspberry Stout,Fruit / Vegetable Beer,1,2.5,
+196,9422,3965,Dublins Irish Ale,Irish Red Ale,1,3.0,
+197,9511,2810,Vanilla Coffee Porter,American Porter,1,4.0,
+198,9906,394,Stoudt's Blonde Double MaiBock,Maibock / Helles Bock,135,3.8,0.6584695054079869
+199,10001,14,Benevolence,American Wild Ale,19,4.184210526315789,0.5058141488890701
+200,10265,3351,Carling,Euro Pale Lager,30,2.4833333333333334,0.865859482640319
+201,10465,4898,Village Elder,English Pale Ale,1,4.5,
+202,10466,4898,Cheriton Best Bitter,English Bitter,1,4.5,
+203,10478,3512,Abdijbier Ter Dolen,Belgian Pale Ale,2,3.5,0.7071067811865476
+204,10479,3512,Ter Dolen Double Dark,Belgian Strong Dark Ale,2,4.25,0.3535533905932738
+205,10480,3512,Ter Dolen Tripel,Tripel,5,3.6,0.6519202405202649
+206,10602,4955,ColÃ³n Light,KÃ¶lsch,1,3.5,
+207,10605,4955,ColÃ³n Negra,English Brown Ale,3,3.6666666666666665,0.5773502691896258
+208,10645,1127,Winter Ale,Scotch Ale / Wee Heavy,1,4.0,
+209,10649,1454,Wheat Beer,Witbier,4,2.875,0.24999999999999994
+210,10656,5049,Gem,Extra Special / Strong Bitter (ESB),24,4.229166666666667,0.46576647131057175
+211,10784,1075,Caldera IPA,American IPA,278,4.06294964028777,0.5121215915488783
+212,10785,1075,Ashland Amber,American Amber / Red Ale,74,3.7567567567567566,0.5566733581674689
+213,10786,1075,Dry Hop Red,American Amber / Red Ale,7,4.071428571428571,0.5345224838248488
+214,10788,1075,Pilot Rock Porter,American Porter,8,4.125,0.7905694150420949
+215,10789,1075,Caldera Oatmeal Stout,Oatmeal Stout,1,2.0,
+216,10793,1075,Cauldron Brew,American Strong Ale,1,5.0,
+217,10794,1075,Southside Strong,American Strong Ale,1,4.0,
+218,11126,5095,Dark,Vienna Lager,2,2.75,0.3535533905932738
+219,11263,14,Wolf's Irish Red Ale,Irish Red Ale,2,4.25,0.3535533905932738
+220,11324,2310,Risky Biscuit Barleywine,American Barleywine,2,3.5,0.7071067811865476
+221,11325,2310,Truckee River Red Organic Ale,American Amber / Red Ale,2,2.25,1.0606601717798212
+222,11328,1417,Golden Sheep Pale Ale,Extra Special / Strong Bitter (ESB),14,3.5357142857142856,0.4986244815754374
+223,11456,577,Red Cuillin,English Pale Ale,11,3.6363636363636362,0.674199862463242
+224,11493,5313,Hakim Stout,Foreign / Export Stout,40,3.4125,0.6591321022413705
+225,11635,2810,Bavarian Hefe-Weizen,Hefeweizen,1,3.0,
+226,11641,2810,India Pale Ale,American IPA,1,3.5,
+227,11642,2810,Pilsner,Czech Pilsener,1,3.0,
+228,11664,2810,Praying Monk Double Abbey Ale,Dubbel,1,3.0,
+229,11709,577,Hebridean Gold Porridge Oat Ale,English Bitter,9,3.7777777777777777,0.565194165260439
+230,11753,5430,Zhigulovskoye,Euro Pale Lager,2,2.25,1.0606601717798212
+231,11757,1199,Founders Breakfast Stout,American Double / Imperial Stout,1883,4.360594795539034,0.49981725344162903
+232,11789,5430,Beer Svetloye Klassik,Euro Pale Lager,2,2.25,0.3535533905932738
+233,11896,2906,Altitude Amber Ale,American Amber / Red Ale,1,4.5,
+234,11897,2906,Elusive Trout Stout,Milk / Sweet Stout,4,4.375,0.6291528696058957
+235,11899,14,Kaffir Lime - Lemongrass Ale,Fruit / Vegetable Beer,1,4.0,
+236,11900,14,Endless Summer IPA,American IPA,6,4.083333333333333,0.4915960401250876
+237,11958,1381,Sokol Klassichiskoye,Czech Pilsener,1,3.0,
+238,11963,3403,Sheepshaggers Gold,English Pale Ale,8,3.625,0.44320263021395917
+239,12073,5313,Harar Beer,American Adjunct Lager,19,3.5,0.6236095644623237
+240,12143,1381,Sokol Ice,Euro Pale Lager,1,2.0,
+241,12155,6277,Bogemia,Euro Pale Lager,7,2.5,1.0
+242,12181,1199,Founders Imperial IPA,American Double / Imperial IPA,2,4.25,0.3535533905932738
+243,12186,1199,Founders Weizenbier,American Pale Wheat Ale,15,3.466666666666667,0.6113996432854079
+244,12197,1417,Emmerdale,Extra Special / Strong Bitter (ESB),9,3.8333333333333335,0.6614378277661477
+245,12386,1075,Caldera OBF 15,American Pale Lager,1,4.0,
+246,12421,936,Amber Ale,American Amber / Red Ale,7,3.357142857142857,0.6900655593423541
+247,12492,6245,Mt. Angel Mad Lisas Smoked Maple Lager,Rauchbier,1,4.0,
+248,12655,1303,Jennings Crag Rat,English Bitter,3,2.3333333333333335,0.5773502691896257
+249,12734,807,Batemans Salem Porter,English Porter,6,3.8333333333333335,0.9309493362512627
+250,12754,807,Batemans Summer Swallow,English Pale Mild Ale,7,3.142857142857143,0.8521681032463467
+251,12824,2098,Bar X Stout,American Stout,2,3.5,1.4142135623730951
+252,12835,2724,Deviator Doppelbock,Doppelbock,1,3.0,
+253,12928,860,Beetlejuice Hefeweizen,Hefeweizen,12,3.2916666666666665,0.6894771844512245
+254,12982,2098,Triple,Tripel,6,3.0,1.2247448713915892
+255,12992,2916,Tom Wood Shepherds Delight,English Bitter,2,2.75,0.3535533905932738
+256,13006,2464,The Cowboy Belgian Tripel,Tripel,1,4.0,
+257,13009,936,Pale Ale,American Pale Ale (APA),7,4.071428571428571,0.44986770542121873
+258,13020,14,Half Wit,Witbier,4,4.0,0.7071067811865475
+259,13084,5049,Barnstormer,English Bitter,14,4.0,0.5547001962252291
+260,13112,936,IPA,American IPA,9,3.8333333333333335,0.49999999999999994
+261,13152,3282,La Binchoise BiÃ¨re Des Ours (Berenbier),Belgian Strong Pale Ale,11,3.8636363636363638,0.5954371961386479
+262,13241,7091,Village Bitter,English Bitter,1,4.0,
+263,13261,7104,Classic Blonde,American Blonde Ale,1,4.0,
+264,13276,7088,Sternquell Bockbier,Bock,1,4.0,
+265,13282,2446,King Don's Original Pumpkin Ale,Pumpkin Ale,18,4.138888888888889,0.41322104736681564
+266,13289,1454,Oktoberfest,MÃ¤rzen / Oktoberfest,6,4.333333333333333,0.5163977794943221
+267,13349,3268,Light,English Dark Mild Ale,1,2.5,
+268,13350,3268,Pumpkin Ale,Pumpkin Ale,155,3.6806451612903226,0.6642148743034264
+269,13545,1381,Amsterdam Navigator,Euro Strong Lager,3,2.3333333333333335,0.7637626158259733
+270,13548,2055,Bernard Celebration Lager,Czech Pilsener,6,3.6666666666666665,0.7527726527090811
+271,13583,2055,Bernard SvÃ¡te&#269;nÃ­ LeÂÃ¡k,Czech Pilsener,10,4.1,0.5163977794943223
+272,13816,14,Red God IPA,American Double / Imperial IPA,21,4.0,0.8215838362577496
+273,14014,568,Okocim Jasne Pelne,Light Lager,7,3.0714285714285716,0.5345224838248488
+274,14241,4103,Breznak Svetle Specialni (Pale Special),Czech Pilsener,1,4.0,
+275,14242,765,Portside Amber Premium Ale,American Amber / Red Ale,6,2.8333333333333335,0.816496580927726
+276,14243,765,Harbour Gold Premium Pilsner,Czech Pilsener,11,2.3636363636363638,1.1421669994118437
+277,14299,807,Dark Lord,English Porter,19,3.5526315789473686,0.5984873720496733
+278,14300,807,Yella Belly Organic Ale,English Pale Ale,1,1.5,
+279,14301,807,Dark Mild,English Dark Mild Ale,6,4.333333333333333,0.40824829046386285
+280,14348,1,Eisbrau Czech,Czech Pilsener,4,3.625,0.47871355387816905
+281,14394,2906,Wild Wheat Ale,American Pale Wheat Ale,2,3.5,0.7071067811865476
+282,14395,2906,Bugaboo Bitter,English Bitter,1,4.5,
+283,14396,2906,Chek Pilsner,Czech Pilsener,3,3.5,0.8660254037844386
+284,14397,2906,Lake Louise Lager,American Adjunct Lager,1,2.0,
+285,14413,2446,Brown Bear Ale,English Brown Ale,9,3.7222222222222223,0.6666666666666667
+286,14435,807,Hooker,English Pale Ale,4,3.375,0.4787135538781691
+287,14454,395,Mephistopheles' Metamorphosis,Tripel,22,3.3636363636363638,0.8616404368553293
+288,14589,2446,Indian Red Head,American Amber / Red Ale,3,3.3333333333333335,1.1547005383792515
+289,14591,2446,King Karma Ale,American Pale Wheat Ale,3,3.3333333333333335,0.7637626158259733
+290,14592,2446,King Coconut Porter,American Porter,14,4.25,0.37977726265637524
+291,14973,3403,Nessie's Monster Mash,Scottish Ale,7,3.2857142857142856,1.1852265204432042
+292,15062,5246,Special Ops IPA,American IPA,2,4.0,0.7071067811865476
+293,15130,1303,Dark Mild,English Dark Mild Ale,2,4.25,0.3535533905932738
+294,15131,1303,Red Breast,Extra Special / Strong Bitter (ESB),1,3.0,
+295,15139,1303,Cross Buttock Ale,English Bitter,1,3.0,
+296,15140,1303,Jennings Best Bitter,English Bitter,4,3.5,0.40824829046386296
+297,15202,1497,Red Spot,American Amber / Red Ale,4,3.625,0.75
+298,15203,1497,Hefeweizen,Hefeweizen,4,2.75,1.5000000000000002
+299,15204,1497,Porter,American Porter,1,3.5,
+300,15244,2098,Festivale,Old Ale,14,3.75,0.37977726265637507
+301,15280,5049,Festivity,American Porter,6,4.0,0.31622776601683794
+302,15291,8685,Cloverdale Ale,American Pale Ale (APA),1,3.5,
+303,15292,8685,Every Day IPA,American IPA,1,4.0,
+304,15339,568,Okocim Karmi,Light Lager,2,3.0,0.7071067811865476
+305,15369,2464,The Cowboy Hefeweizen,Hefeweizen,2,4.0,0.7071067811865476
+306,15401,2464,The Cowboy Double Barrel Barley Wine,American Barleywine,1,3.5,
+307,15474,1454,Broad Ripple Lawnmower Pale Ale,American Pale Ale (APA),4,3.625,0.47871355387816905
+308,15550,14,Off-(trap)Piste Belgian-Style Grand Cru,Belgian Strong Dark Ale,3,4.333333333333333,0.2886751345948129
+309,15578,6513,SchorschbrÃ¤u Donner Bock,Doppelbock,6,3.5,0.7071067811865476
+310,15654,3701,Weizen,Hefeweizen,1,3.5,
+311,15660,1454,Wobbly Bob APA,American Pale Ale (APA),6,4.833333333333333,0.2581988897471611
+312,15797,395,Old Smokey (Black Silk Smoked Porter),American Porter,1,4.0,
+313,15894,2724,Code Blue,American Barleywine,5,3.9,0.22360679774997894
+314,16073,1199,Founders Bad Habit Belgian Quad,Quadrupel (Quad),78,3.4358974358974357,0.770220808106411
+315,16074,1199,Founders Red's Rye PA,Rye Beer,1051,4.210275927687916,0.4766240606809223
+316,16079,1199,Founders Oatmeal Stout,Oatmeal Stout,26,4.153846153846154,0.579124006914422
+317,16083,14,Weekapaug Gruit Ale,Scottish Gruit / Ancient Herbed Ale,11,3.8181818181818183,0.40451991747794525
+318,16115,1199,Founders Black Rye,Rye Beer,229,4.069868995633188,0.47931830279487775
+319,16122,2430,Sakara Gold,American Adjunct Lager,13,3.1153846153846154,1.0237562810927818
+320,16417,1482,New Dublin Brown Ale,English Brown Ale,7,3.5714285714285716,0.5345224838248489
+321,16491,1454,T.J.'s Best Bitter,English Bitter,5,4.6,0.4183300132670379
+322,16638,3268,Cherry Chocolate Beer,Fruit / Vegetable Beer,133,3.045112781954887,0.8670278529493326
+323,16692,5500,Black Forest India Pale Ale,American IPA,6,4.0,0.7071067811865476
+324,16693,5500,Black Forest Baltic Porter,Baltic Porter,2,3.25,0.3535533905932738
+325,16695,5500,Black Forest Sully's Irish Stout,Irish Dry Stout,4,3.875,0.24999999999999994
+326,16818,6272,Siren's Song Pale Ale,American Pale Ale (APA),2,4.25,0.3535533905932738
+327,16892,2188,Flying Aces Ale,Extra Special / Strong Bitter (ESB),4,3.125,1.3768926368215255
+328,16893,2188,Golden Hawk Wheat,American Pale Wheat Ale,5,3.3,0.6708203932499369
+329,16894,2188,Red Rocket Amber Ale,American Amber / Red Ale,1,2.0,
+330,17010,577,Wee Beast (Cuillin Beast),Scotch Ale / Wee Heavy,57,3.6140350877192984,0.6547732967794567
+331,17059,5007,Rege,Light Lager,1,1.0,
+332,17070,1199,Founders Chocolate Rye Porter,American Porter,2,4.5,0.0
+333,17072,1199,Founders Belgian Pale,Belgian Strong Pale Ale,1,3.0,
+334,17094,9020,Onward Irish Stout,Irish Dry Stout,18,3.9166666666666665,0.8089572082044157
+335,17124,5007,Brulle,American Strong Ale,1,4.0,
+336,17160,807,Spring Breeze,English Pale Ale,5,4.0,0.35355339059327373
+337,17162,936,Chocolate Dunkel,Munich Dunkel Lager,5,3.4,0.8215838362577492
+338,17183,14,EZ Ryeder,Rye Beer,10,4.2,0.4830458915396481
+339,17285,14,Straight-Edge Stout,American Stout,3,3.8333333333333335,0.7637626158259733
+340,17499,1497,Dry Stout,Irish Dry Stout,4,3.75,0.6454972243679028
+341,17525,14,Anniversary Ale,Extra Special / Strong Bitter (ESB),1,4.5,
+342,17536,1199,Founders Summer Braggot,Braggot,2,2.5,0.7071067811865476
+343,17537,1199,Founders Cherry Java Stout,American Stout,2,4.0,0.7071067811865476
+344,17538,1199,Founders Devil Dancer,American Double / Imperial IPA,799,3.729662077596996,0.6764078502656073
+345,17557,1199,Founders Belgian Tripple,American Double / Imperial Stout,1,3.5,
+346,17566,5246,Powder Monkey Porter,American Porter,1,4.0,
+347,17610,2647,Gwiniz Du,American Dark Wheat Ale,9,3.7222222222222223,0.5068968775248516
+348,17655,14,Honey-Ginger Ale,Herbed / Spiced Beer,9,3.2222222222222223,0.3632415786283894
+349,17737,1289,India Pale Ale,English India Pale Ale (IPA),2,4.25,0.3535533905932738
+350,18091,7536,Three Nuns Ale,American Pale Ale (APA),5,3.9,0.6519202405202649
+351,18203,14,American Red Ale,American Amber / Red Ale,1,4.5,
+352,18279,7088,Sternquell Pils,German Pilsener,1,2.0,
+353,18293,3403,Wildcat,Scottish Ale,11,3.5,0.9219544457292886
+354,18294,3403,Stag,Scottish Ale,4,3.625,0.6291528696058958
+355,18310,3403,Black Gold,English Stout,7,4.285714285714286,0.5669467095138407
+356,18313,4103,Breznak Lager,Czech Pilsener,14,3.75,0.5459642140991688
+357,18327,5321,Hammerhead Pale Ale,American Pale Ale (APA),3,3.5,0.5
+358,18382,2916,Tom Wood Old Timber,English Bitter,2,4.0,0.7071067811865476
+359,18448,5321,Working Man's Red,American Amber / Red Ale,1,3.0,
+360,18449,5321,Black Rabbit Porter,American Porter,1,4.0,
+361,18450,5321,Terminator Stout,American Stout,1,2.5,
+362,18533,765,Elora ESB,Extra Special / Strong Bitter (ESB),13,2.8461538461538463,0.6577935144802719
+363,18573,2055,Bernard Semi-dark Lager (polotmavy Lezak),Euro Dark Lager,2,3.5,0.7071067811865476
+364,18604,807,Bateman's PortuGoal,English Dark Mild Ale,1,4.0,
+365,18713,395,Wort Hog Dort,Dortmunder / Export Lager,2,4.25,0.3535533905932738
+366,18879,1199,Founders Cherry Pale Ale,Fruit / Vegetable Beer,8,3.375,0.6408699444616557
+367,18898,9347,Ferdinand Svetly Lezak,Czech Pilsener,6,3.5,0.6324555320336759
+368,18903,9347,Ferdinand Tmavy Lezak,Euro Dark Lager,7,3.0714285714285716,0.8380817098475258
+369,18968,6272,Red Canoe Lager,Czech Pilsener,4,3.75,0.6454972243679028
+370,19046,3351,Stones Bitter,English Bitter,4,2.875,0.6291528696058959
+371,19047,7091,Station Masters' Tipple,English Bitter,1,2.5,
+372,19099,1,Primus,Czech Pilsener,3,3.1666666666666665,0.2886751345948129
+373,19123,1,Gambrinus Pale,Czech Pilsener,5,4.0,0.6123724356957946
+374,19139,885,KÃ¶lsch Ale,KÃ¶lsch,3,2.8333333333333335,1.2583057392117916
+375,19141,885,Irvington Pale Ale,American Pale Ale (APA),6,3.5833333333333335,0.3763863263545405
+376,19142,885,IPA,English India Pale Ale (IPA),3,3.8333333333333335,0.7637626158259733
+377,19143,885,Cream Ale,Cream Ale,1,3.0,
+378,19149,885,Diamond Stout,Irish Dry Stout,1,4.0,
+379,19201,2464,The Cowboy Kolsch,KÃ¶lsch,3,4.0,0.0
+380,19260,6836,MartinÂs BrÃ¤u Dunkel Export,Munich Dunkel Lager,1,3.5,
+381,19261,6836,MartinÂs BrÃ¤u Pils,German Pilsener,3,4.333333333333333,0.5773502691896258
+382,19274,1,Urutislav,Czech Pilsener,2,3.25,0.3535533905932738
+383,19309,2055,Bernard Svetly Lezak,Czech Pilsener,13,3.576923076923077,0.7025594235292438
+384,19337,1199,Founders KÃ¶lsch,KÃ¶lsch,2,4.0,0.0
+385,19459,2647,Ar-Men DorÃ©e,Belgian Pale Ale,1,3.0,
+386,19551,7091,Golden Goal,English Bitter,1,4.0,
+387,19558,850,Wild Wacky Wit,Witbier,14,3.7857142857142856,0.6112498455021266
+388,19562,1199,Founders Chamomile Ale,Herbed / Spiced Beer,1,3.0,
+389,19674,2647,Ar-Men AmbrÃ©e,Belgian Dark Ale,1,3.5,
+390,19869,1199,Founders Double Dirty,Scotch Ale / Wee Heavy,1,4.5,
+391,19871,14,ESB,Extra Special / Strong Bitter (ESB),2,4.75,0.3535533905932738
+392,19895,2188,White Rapids Ale,American Pale Ale (APA),1,3.0,
+393,19898,2188,Helles Honey Bock,Maibock / Helles Bock,4,3.625,0.8539125638299665
+394,19960,1199,Founders KBS (Kentucky Breakfast Stout),American Double / Imperial Stout,1439,4.387769284225157,0.5557417698395053
+395,20017,3631,Dark De Triomphe,English Stout,2,4.0,0.0
+396,20021,3282,La Binchoise Rose Des Remparts,Fruit / Vegetable Beer,4,3.375,1.3768926368215255
+397,20022,3282,La Binchoise La Belge Biere Speciale,Belgian Pale Ale,2,3.5,0.0
+398,20038,2647,Ar-Men Brune,Belgian Dark Ale,1,3.0,
+399,20112,3207,Dopple Weizen,Weizenbock,1,2.0,
+400,20169,6513,SchorschbrÃ¤u Donner Weizen,Weizenbock,6,3.25,1.1726039399558574
+401,20199,765,Irish Amber Light,American Amber / Red Ale,1,2.5,
+402,20202,765,Trafalgar Celtic Ale,English Pale Ale,7,3.142857142857143,1.1073348527841416
+403,20204,574,Swan Stout,English Stout,2,4.0,0.0
+404,20243,2600,Montgomery Mild,English Dark Mild Ale,1,3.5,
+405,20310,3403,Trade Winds,American Pale Wheat Ale,14,4.25,0.4274252071325555
+406,20367,2188,Oktoberfest,MÃ¤rzen / Oktoberfest,1,3.5,
+407,20379,5246,Sledgehammer Double IPA,American Double / Imperial IPA,1,3.5,
+408,20417,395,Homewrecker,American Double / Imperial IPA,26,3.423076923076923,0.6586699885725431
+409,20447,2098,ESG (Extra Special Golden),American Blonde Ale,17,3.7941176470588234,0.6138715136688763
+410,20470,394,Stoudt's Double IPA (India Pale Ale),American Double / Imperial IPA,538,3.842936802973978,0.623825764499251
+411,20478,1199,Founders Harvest Ale,American IPA,491,4.208757637474542,0.48308604498040975
+412,20504,10103,Weizen,Hefeweizen,1,3.5,
+413,20505,10103,Alt,Altbier,1,4.0,
+414,20539,394,Stoudt's Fat Dog (Imperial Oatmeal Stout),American Double / Imperial Stout,265,3.983018867924528,0.5210478403327095
+415,20560,2098,Breakfast Porter,American Porter,8,3.9375,0.4955156044825574
+416,20575,9020,Hefeweizen,Hefeweizen,76,3.835526315789474,0.5315898036063581
+417,20584,2310,Oktoberfest,MÃ¤rzen / Oktoberfest,1,5.0,
+418,20757,850,Black River Imperial Stout,Russian Imperial Stout,1,3.5,
+419,20758,850,Ogeechee Amber Ale,American Amber / Red Ale,2,3.5,0.0
+420,20817,1075,Lawnmower Lager,American Adjunct Lager,11,3.4545454545454546,1.1716344450071756
+421,20818,1075,Old Growth Imperial Stout,Russian Imperial Stout,22,4.181818181818182,0.5243012253388075
+422,20859,1413,Munich Lager,Munich Dunkel Lager,4,4.25,0.5
+423,20860,1413,Kona Coffee Stout,American Stout,1,3.0,
+424,20891,568,Harnas,Euro Pale Lager,33,3.090909090909091,0.8240007722856048
+425,20893,9020,Dos Perros,American Brown Ale,96,3.7864583333333335,0.6015103432048825
+426,20901,1482,80 Weight Mild Amber Scotch Ale,Scotch Ale / Wee Heavy,1,4.5,
+427,20962,3268,Happy Holidaze,Herbed / Spiced Beer,10,3.85,0.41163630117428224
+428,20986,1463,Christian Firtal,Euro Pale Lager,1,2.0,
+429,21034,5892,Barley Wine,American Barleywine,1,3.0,
+430,21110,7091,Oyster Stout,English Stout,2,3.75,0.3535533905932738
+431,21191,2906,Red,English Bitter,3,3.3333333333333335,0.7637626158259733
+432,21217,6272,Beaver Brown Ale,English Brown Ale,5,3.8,0.27386127875258315
+433,21246,1199,Founders X-mas Porter,American Porter,3,3.1666666666666665,0.2886751345948129
+434,21436,14,YouEnjoyMyStout,Russian Imperial Stout,36,3.9444444444444446,0.39238788713243183
+435,21483,2098,Fest,English Strong Ale,2,4.25,0.3535533905932738
+436,21521,2055,Bernard Cerne,Euro Dark Lager,20,3.925,0.519994939246629
+437,21556,568,Okocim Beer,German Pilsener,61,3.3934426229508197,0.6063191822956557
+438,21607,765,Trafalgar Downrigger Double Bock,Bock,3,3.3333333333333335,0.5773502691896257
+439,21652,2430,Meister,Light Lager,3,2.3333333333333335,0.7637626158259733
+440,21688,9020,Sly Rye Porter,American Porter,37,3.9324324324324325,0.542142895295068
+441,21694,2906,Honey Ale,American Amber / Red Ale,2,3.25,0.3535533905932738
+442,21704,263,Aecht Schlenkerla Fastenbier,Rauchbier,62,4.314516129032258,0.4810667020972635
+443,21751,1199,Founders Honey Rye,Rye Beer,1,4.5,
+444,21753,1199,Founders Frangelic Stout,American Stout,18,4.111111111111111,0.796232960950861
+445,21762,1199,Founders Chamomile Kolsch,Herbed / Spiced Beer,1,3.5,
+446,21772,1127,Emperor Penguin Ale,American Double / Imperial IPA,1,3.5,
+447,21800,14,Cerise CassÃ©e American Sour Ale,American Wild Ale,32,4.03125,0.43879416880884503
+448,21822,1199,Founders Imperial Stout,Russian Imperial Stout,805,4.21055900621118,0.45172451270890146
+449,21824,1199,Founders Hop Sun,American Pale Wheat Ale,1,3.5,
+450,22169,10950,Richmodis Koelsch,KÃ¶lsch,1,4.0,
+451,22174,1616,Spanish Springs Porter,American Porter,2,4.5,0.7071067811865476
+452,22213,2188,Brown Nose Ale,English Brown Ale,3,3.0,1.0
+453,22272,1497,Quasar Double IPA,American Double / Imperial IPA,10,3.95,0.5502524673073059
+454,22450,3268,Blackberry Scottish-Style,Fruit / Vegetable Beer,44,3.159090909090909,0.6078242485494768
+455,22464,453,Goldhorn Club,Euro Pale Lager,4,2.375,1.1086778913041726
+456,22590,9370,Tijuana GÃ¼era,American Pale Lager,19,3.289473684210526,0.6935374193558582
+457,22591,9370,Tijuana Morena,American Amber / Red Lager,10,3.5,0.7071067811865476
+458,22604,1463,Harboe BjÃ¸rnebryg Extra Stark (Bear Beer Extra Strong),Euro Strong Lager,3,3.3333333333333335,1.1547005383792515
+459,22608,1463,Harboe Julebryg,Euro Pale Lager,2,3.25,0.3535533905932738
+460,22609,1463,Harboe Ãrgangssbryg,Euro Strong Lager,1,1.5,
+461,22615,1463,Harboe Classic 110,Euro Pale Lager,2,3.25,0.3535533905932738
+462,22616,1463,Harboe GuldÃ¸l (Harboe Beer Gold),Euro Pale Lager,3,2.0,0.0
+463,22622,395,Halliburton On Trent,American Barleywine,2,4.0,0.7071067811865476
+464,22658,1199,Founders Razz Pale Ale,Fruit / Vegetable Beer,2,4.25,0.3535533905932738
+465,22697,11084,Adam & Eve Ale,American Pale Ale (APA),2,1.75,1.0606601717798212
+466,22808,1463,Harboe Den Glada Danskens LÃ¤ttÃ¶l,Low Alcohol Beer,2,2.0,0.0
+467,22817,1463,Harboe Pilsner,Euro Pale Lager,2,1.5,0.0
+468,22907,453,Zlatorog,Czech Pilsener,36,3.3472222222222223,0.8686561414411876
+469,22958,9816,Ale Nr. 16,English Pale Ale,3,4.0,0.5
+470,22960,9816,SkibsÃ¸l,Rauchbier,4,4.125,0.8539125638299665
+471,22962,9816,Mors Stout,English Stout,4,3.75,0.2886751345948129
+472,22966,9816,MÃ¸rkt HvidtÃ¸l,Low Alcohol Beer,1,3.5,
+473,22968,9816,JuleÃ¸l,Low Alcohol Beer,1,4.5,
+474,23013,10774,Brouemont India Pale,American IPA,3,4.166666666666667,0.28867513459481275
+475,23014,10774,Brouemont Imperial India Pale Ale,American Double / Imperial IPA,2,3.75,0.3535533905932738
+476,23015,10774,Brouemont Russian Imperial Stout,Russian Imperial Stout,1,3.5,
+477,23118,3282,La CisterciÃ¨nne Bruna,Dubbel,1,4.5,
+478,23282,1303,Golden Host,English Bitter,5,3.6,0.5477225575051661
+479,23290,1075,Dry Hop Orange,American Amber / Red Ale,4,3.75,0.2886751345948129
+480,23315,1463,"Netto ""24"" FÃ¸dselsdags-Bryg",Euro Strong Lager,1,2.0,
+481,23327,3407,Gosch,KÃ¶lsch,1,3.5,
+482,23328,3407,Red Alt Ale,Altbier,4,4.0,0.0
+483,23329,3407,Original Lager,Euro Pale Lager,2,3.5,0.0
+484,23406,14,L'Amour Du Jour,Belgian Pale Ale,6,3.6666666666666665,0.5163977794943223
+485,23474,1199,Founders RÃ¼bÃ¦us,Fruit / Vegetable Beer,214,3.852803738317757,0.6321337209109482
+486,23563,1199,Founders Imperial Brown Ale,American Brown Ale,1,4.0,
+487,23568,5321,Javaspresso Nitro Stout,American Stout,1,5.0,
+488,23599,807,Batemans VE Day Bitter,English Bitter,2,3.75,0.3535533905932738
+489,23616,395,Scotch Ale,Scotch Ale / Wee Heavy,6,4.25,0.689202437604511
+490,23660,7104,Classic Brunette,English Bitter,1,4.0,
+491,23668,10774,Weizen,Hefeweizen,2,4.0,0.0
+492,23669,14,PrÃ¶jekt H50 KÃ¶lsch,KÃ¶lsch,2,4.5,0.0
+493,23729,3403,White Lady,American Pale Wheat Ale,3,4.0,0.5
+494,23795,2600,Final Countdown,English Bitter,1,5.0,
+495,23904,2647,Britt Rousse,Belgian Dark Ale,4,3.25,1.0408329997330663
+496,23913,2600,Triple MMM Stout,English Stout,1,3.5,
+497,24057,850,Galleria Espresso Stout,American Stout,1,4.0,
+498,24059,3268,Wheach,Fruit / Vegetable Beer,111,3.671171171171171,0.6160559873298684
+499,24082,394,7 Threads Symposium Ale,American Porter,8,3.6875,0.5938674695827104
+500,24185,395,Vintage 03 Scottish Wee Heavy,Scotch Ale / Wee Heavy,1,4.0,
+501,24233,5514,Staropolskie Mocne,Euro Strong Lager,9,3.388888888888889,0.5464532103585
+502,24244,3408,White Wife,English Bitter,1,4.0,
+503,24443,2310,Katies Cream Ale,Cream Ale,1,3.5,
+504,24444,2310,Black Rock ESB,Extra Special / Strong Bitter (ESB),2,3.0,0.0
+505,24473,14,American Three Threads (Red God Version),American Porter,5,4.4,0.4183300132670376
+506,24722,9347,Sedm KulÃ­ (13% SpeciÃ¡lnÃ­ Pivo PolotmavÃ© ),Euro Dark Lager,5,3.7,0.6708203932499368
+507,24905,1199,Founders Curmudgeon (Old Ale),Old Ale,574,3.81794425087108,0.5592708638534375
+508,24989,365,Auld Acquaintance IPA,American IPA,6,4.083333333333333,0.37638632635454056
+509,25049,765,Portside Amber,American Amber / Red Ale,3,3.3333333333333335,0.28867513459481287
+510,25101,2446,Farmer Ted's Cream Ale,Cream Ale,8,3.5625,0.5629958132298017
+511,25103,365,Imperial Brown Ale,American Brown Ale,2,4.5,0.0
+512,25153,5510,Kiper Pils,Euro Pale Lager,10,2.95,0.28382310609877354
+513,25181,3282,Gribousine Malonne Brune,Belgian Strong Dark Ale,3,4.166666666666667,0.28867513459481275
+514,25196,2098,Ten,American Malt Liquor,1,4.5,
+515,25214,3282,Gribousine Malonne Blond,Belgian Strong Pale Ale,4,3.125,1.181453906563152
+516,25250,12003,Victory Pale Ale,American Pale Ale (APA),11,3.8636363636363638,0.504524979109513
+517,25251,12003,1 A.M. Ale,English Pale Ale,3,2.6666666666666665,0.5773502691896258
+518,25252,12003,Imperial IPA,American Double / Imperial IPA,1,4.0,
+519,25382,394,Oktober Fest,MÃ¤rzen / Oktoberfest,155,3.796774193548387,0.5243944379972292
+520,25386,14,The Colonel's Porter,Baltic Porter,3,3.8333333333333335,0.28867513459481287
+521,25405,7091,Seaside Special,English Bitter,1,2.5,
+522,25414,1075,Caldera Pale Ale,American Pale Ale (APA),126,3.9563492063492065,0.5099797692843953
+523,25422,1199,Founders Belgian Wheat,Witbier,1,3.0,
+524,25466,14,The Colonel's Porter (Cask Primed With English Treacle),Baltic Porter,2,4.0,0.0
+525,25468,568,Palone,Euro Dark Lager,64,3.7890625,0.5760062795898878
+526,25520,2310,Cerveza ChileBeso,Chile Beer,2,3.75,0.3535533905932738
+527,25656,9020,Pale Ale,American Pale Ale (APA),91,3.659340659340659,0.5670543814755967
+528,25812,1381,Sokol Izolda,Euro Pale Lager,1,2.5,
+529,25852,1199,Founders Blushing Monk,Belgian Strong Pale Ale,274,4.085766423357664,0.5636565896917304
+530,25884,12224,Âaibo,Euro Strong Lager,33,2.6515151515151514,0.8881586331144665
+531,25917,12224,Baro Tradicinis,Euro Strong Lager,12,3.5416666666666665,0.7821396449755147
+532,25918,12224,BirÂie&#269;iu,Euro Strong Lager,13,2.8461538461538463,0.5910659644734879
+533,25932,12224,Uosto,Euro Strong Lager,7,2.4285714285714284,0.7867957924694431
+534,25952,2906,Chocolate Honey Porter,American Porter,1,3.0,
+535,26007,3282,Gribousine D'Hiver,Belgian Strong Dark Ale,4,3.375,0.9464847243000457
+536,26012,807,Victory Ale,English Pale Ale,17,3.764705882352941,0.43723731609760313
+537,26079,3351,Hancock's HB,English Bitter,1,3.0,
+538,26201,453,Lasko Club,Euro Pale Lager,26,2.9615384615384617,0.6468860320501119
+539,26350,11710,D'n Osse Frater Bokbier,Bock,1,3.5,
+540,26352,2100,1906 Reserva Especial,Bock,13,2.923076923076923,0.8861469461982081
+541,26353,2100,Estrella De Navidad 2004,Vienna Lager,1,4.0,
+542,26393,1199,Founders Extra Pale Ale,American Blonde Ale,4,4.0,0.9128709291752769
+543,26394,1199,Founders Strong Ale,American Strong Ale,3,3.3333333333333335,0.7637626158259733
+544,26418,11715,Wheat Ale,American Pale Wheat Ale,1,4.5,
+545,26419,11715,Red Rye Ale,Rye Beer,1,4.5,
+546,26420,11715,Pale Ale,American Pale Ale (APA),2,4.0,0.0
+547,26446,7104,Golden Hornet,English Bitter,1,3.0,
+548,26562,850,Moon Dance Pale Ale,English Pale Ale,1,4.5,
+549,26651,936,12 Year Anniversary Ale,American IPA,1,3.5,
+550,26722,14,Newtowne Colonial Ale,American Brown Ale,2,4.25,0.3535533905932738
+551,26771,365,Red Nose Imperial Porter,Winter Warmer,2,3.75,0.3535533905932738
+552,26817,11715,Pumpkin Ale,Pumpkin Ale,1,4.5,
+553,26853,12003,Kolsch,KÃ¶lsch,1,3.5,
+554,26854,12003,Centennial Amber Ale,American Amber / Red Ale,2,4.0,0.7071067811865476
+555,26909,577,Devanha Scottish XXX Ale,Scottish Ale,1,3.5,
+556,26930,14,Late Harvest IPA,American IPA,5,4.2,0.27386127875258304
+557,26964,1199,Founders Imperial Breakfast Stout,American Double / Imperial Stout,2,4.5,0.7071067811865476
+558,27229,850,Wheezy Heifer,Hefeweizen,1,3.5,
+559,27347,395,Bourbon Barrel Smoked Porter,American Porter,4,4.125,0.25
+560,27362,9020,Quinn's Marathon Mild,English Dark Mild Ale,1,5.0,
+561,27488,7088,Sternquell Weihnachtsbier,MÃ¤rzen / Oktoberfest,1,4.0,
+562,27586,2430,Stella,Euro Pale Lager,16,2.96875,0.7180703308172537
+563,27588,2430,Stella Export,Dortmunder / Export Lager,2,2.75,0.3535533905932738
+564,27589,2430,Meister Max,Euro Strong Lager,3,2.3333333333333335,0.5773502691896257
+565,27590,2430,Sakara Red,American Amber / Red Lager,1,4.0,
+566,27596,765,Elora Grand Lager,American Pale Lager,18,2.611111111111111,0.8144929053162203
+567,27597,765,Elora Irish Ale,Irish Red Ale,23,3.130434782608696,0.6071054892675691
+568,27664,11715,Newark IPA,American IPA,1,4.0,
+569,27666,11715,Holiday Ale,Herbed / Spiced Beer,1,2.5,
+570,27753,395,Kolsch,KÃ¶lsch,6,4.0,0.6324555320336759
+571,27785,2916,Tom Wood's Jolly Snowman,English Bitter,1,3.0,
+572,27799,11715,Sweet Stout,Milk / Sweet Stout,1,3.5,
+573,27828,2446,Oak Aged Stout,American Stout,1,4.5,
+574,27861,885,Centennial Ale,American Barleywine,1,3.0,
+575,27865,1199,Founders Brassworks Ale,American Pale Ale (APA),1,4.0,
+576,27982,936,Winter Ale,Winter Warmer,7,3.857142857142857,0.4755948656056709
+577,28096,2647,Ar-Men Blonde,Belgian Pale Ale,1,2.5,
+578,28100,12907,Zahre Affumicata,Rauchbier,1,4.0,
+579,28350,3268,5 Day IPA,American IPA,178,3.985955056179775,0.48836686011546276
+580,28373,9370,Tijuana Light,Light Lager,4,3.0,0.40824829046386296
+581,28427,1616,Spanish Springs Wilhelm Sebalds Authentic Bavarian Oktoberfest,MÃ¤rzen / Oktoberfest,2,3.5,0.0
+582,28428,1616,Spanish Springs Father Rollandos Righteous Ale,American Blonde Ale,1,3.5,
+583,28430,1616,Spanish Springs Lighthouse Pale Ale,American Pale Ale (APA),1,3.5,
+584,28431,1616,Spanish Springs Sebald's Select,American Pale Lager,1,3.5,
+585,28432,1616,Spanish Springs Seymours Southern Stout,American Stout,2,3.0,0.7071067811865476
+586,28469,12907,Zahre Chiara Pilsen,German Pilsener,1,3.0,
+587,28668,11710,Kaboem,Belgian Strong Pale Ale,3,3.5,0.5
+588,28676,5510,Kiper Bock,Bock,6,3.5833333333333335,0.664580067912563
+589,28726,11203,IPA,American IPA,2,4.0,0.0
+590,28727,11203,Curly Tail Ale,American Blonde Ale,3,3.8333333333333335,0.28867513459481287
+591,28730,11203,Scout Stout,American Stout,1,4.0,
+592,28949,13397,Lager,American Pale Lager,20,3.7,0.5712405705774795
+593,28950,13397,Nut Brown Ale,English Brown Ale,30,3.55,0.6866962386222393
+594,28951,13397,Pale Ale,American Pale Ale (APA),32,3.75,0.7071067811865478
+595,28952,13397,Stout,Irish Dry Stout,23,3.5434782608695654,0.49801979420000964
+596,28954,13397,Old Snowshoe Winter Ale,Old Ale,2,4.25,1.0606601717798212
+597,29142,850,Oatboy Imperial IPA,American Double / Imperial IPA,1,4.0,
+598,29145,263,Aecht Schlenkerla Helles Lagerbier,Munich Helles Lager,220,4.129545454545455,0.6304957625553479
+599,29198,2647,Ar-Men Blanche,Witbier,2,3.0,0.7071067811865476
+600,29204,395,Horse Piss Beer,American Blonde Ale,42,2.8333333333333335,0.8164965809277264
+601,29227,395,Batch 1300,Wheatwine,1,3.5,
+602,29241,11710,Ostrea Takebier,Belgian Dark Ale,1,4.0,
+603,29292,1413,All The Way Alt,Altbier,2,3.25,0.3535533905932738
+604,29608,1413,Backcountry Cream Ale,Cream Ale,1,4.0,
+605,29687,395,Jefferson's Reserve Bourbon Barrel Stout,American Double / Imperial Stout,251,3.808764940239044,0.751852956718198
+606,29697,1413,Nut Brown Ale,American Brown Ale,1,4.0,
+607,29727,765,Trafalgar Bock,Bock,3,2.5,0.8660254037844386
+608,30034,13670,Forester Pale Ale,English Pale Ale,10,2.65,1.0013879257199867
+609,30181,8775,Muddy Mississippi Oatmeal Stout,American Stout,3,3.5,0.5
+610,30182,8775,Winter's Street Strawberry Ale,American Pale Wheat Ale,2,1.75,1.0606601717798212
+611,30183,8775,Riverboat Porter,American Porter,4,3.25,1.3228756555322954
+612,30195,8775,Old Brick Irish Amber Ale,Irish Red Ale,2,1.75,0.3535533905932738
+613,30199,12907,Zahre Canapa,Herbed / Spiced Beer,2,2.25,0.3535533905932738
+614,30226,2412,Ludwig's Red Anvil,American Amber / Red Ale,1,4.0,
+615,30241,8775,Gems India Pale Ale,American IPA,1,4.0,
+616,30247,1199,Founders White Sunshine Weiss,American Pale Wheat Ale,1,2.5,
+617,30248,1199,Founders Black Sunshine,Dunkelweizen,2,4.5,0.0
+618,30271,5500,Black Forest Doppelbock,Doppelbock,2,3.75,0.3535533905932738
+619,30272,5500,Black Forest English Mild,English Dark Mild Ale,1,4.0,
+620,30273,12224,Uosto Pale,Euro Pale Lager,3,3.1666666666666665,1.2583057392117918
+621,30368,13831,Taps Charleston Lager,American Amber / Red Lager,6,3.3333333333333335,0.2581988897471612
+622,30371,13831,Taps Premium Lager,Dortmunder / Export Lager,8,4.0,0.37796447300922736
+623,30372,13831,Taps Red Cream Ale,Cream Ale,20,3.0,0.743391941675028
+624,30484,1199,Founders Scalawag Old Ale,Old Ale,6,3.5833333333333335,0.8010409893798611
+625,30550,3282,Eulogy's Busty Blonde,Belgian Pale Ale,2,3.0,0.0
+626,30563,5514,Staropolskie Zlote,Euro Pale Lager,7,3.5,0.7071067811865475
+627,30571,1303,Tom Fool,English Bitter,1,3.0,
+628,30608,13892,English Wheat Beer,English Pale Ale,1,3.0,
+629,30618,10541,CucapÃ¡ ClÃ¡sica,American Blonde Ale,6,3.5833333333333335,0.3763863263545405
+630,30682,765,Trafalgar Critical Mass,American Strong Ale,12,2.9166666666666665,0.7334022006230877
+631,30686,7091,Golden Orchid,English Pale Ale,1,3.5,
+632,30704,2600,Barleymow,English Barleywine,1,4.0,
+633,30733,7091,Crystal Clear,English Pale Ale,2,2.75,0.3535533905932738
+634,30776,2600,Goldie Hops,English Pale Mild Ale,1,2.5,
+635,30790,7091,Give Us A Cue,English Pale Ale,1,3.0,
+636,30983,2055,OX,Czech Pilsener,1,3.0,
+637,31063,3351,Worthington's Creamflow Draught Bitter,English Bitter,4,3.0,0.5773502691896257
+638,31080,5049,Organic Lager,Euro Pale Lager,1,2.0,
+639,31118,1199,Founders Lazy Daze,American Pale Ale (APA),3,3.5,0.8660254037844386
+640,31426,453,Export Pils,German Pilsener,1,2.0,
+641,31427,453,Netopir,Vienna Lager,1,3.0,
+642,31487,807,Hop Bine Bitter (Organic),English Bitter,1,3.5,
+643,31507,3965,Foghorn Porter,American Porter,1,4.5,
+644,31508,3965,English Summer Ale,English Bitter,1,4.0,
+645,31596,1199,Founders Summer Wit,Witbier,2,4.0,0.0
+646,31625,1199,Founders Gold Sunshine,American Pale Wheat Ale,1,4.0,
+647,31630,765,Trafalgar Red Hill Mild,English Pale Mild Ale,1,4.5,
+648,31703,14,Arquebus,English Barleywine,22,4.295454545454546,0.503773638440797
+649,31704,13905,Brasseurs Et FrÃ¨res Mort De Rire,American Brown Ale,14,3.4642857142857144,0.8195750708161497
+650,31705,13905,La RÃ©compense,English Bitter,14,3.4285714285714284,0.7032108464077432
+651,31790,6272,Honey Wheat Beer,American Pale Wheat Ale,3,3.1666666666666665,1.0408329997330665
+652,31912,14,Biere De Miel,Belgian Strong Pale Ale,10,3.7,0.42163702135578385
+653,31935,1454,Pilsner,German Pilsener,1,3.5,
+654,31948,14338,NÃ¼a,American Amber / Red Ale,1,3.0,
+655,31970,4955,ColÃ³n Roja,English Pale Ale,2,4.0,0.7071067811865476
+656,31973,1386,Mt. Takhoma Blonde Ale,American Blonde Ale,3,3.8333333333333335,1.0408329997330663
+657,32084,2188,Black Night Black Lager,Schwarzbier,1,4.5,
+658,32134,14,Aestas Ale,English Pale Mild Ale,4,4.625,0.47871355387816905
+659,32179,1463,Christian Firtal GuldÃ¸l,Euro Pale Lager,1,2.5,
+660,32222,765,Trafalgar Korruptor,American Strong Ale,13,2.769230769230769,0.6329621044272917
+661,32264,1386,Braveheart Beir,Scottish Gruit / Ancient Herbed Ale,1,3.5,
+662,32283,14003,Chocolate Nutter,English Stout,1,5.0,
+663,32306,1454,Farmhouse Ale,Saison / Farmhouse Ale,2,5.0,0.0
+664,32368,1463,Harboe Red Beer,American Amber / Red Lager,1,2.0,
+665,32371,2446,Whiskey River IPA,American IPA,8,4.3125,0.5303300858899107
+666,32374,1386,Puget Sound Vanilla Porter,American Porter,8,3.625,0.9161253813129043
+667,32486,14,Alt-erior Motive,Altbier,2,4.0,0.0
+668,32508,860,LupÃ©,American Double / Imperial IPA,2,4.0,0.0
+669,32625,5246,Bibb City Blonde,American Blonde Ale,1,4.0,
+670,32661,765,White Oak Weissbier,Kristalweizen,5,3.1,1.02469507659596
+671,32676,1386,One Hop Wonder IPA,American IPA,3,3.0,1.0
+672,32710,765,Strawberry Anti-Social,Fruit / Vegetable Beer,4,3.25,0.6454972243679028
+673,32711,765,Debau Cherry Bitter Ale,Fruit / Vegetable Beer,4,2.625,0.6291528696058958
+674,32759,3965,Brockway Brown,American Brown Ale,2,4.25,0.3535533905932738
+675,32780,12224,Aiko,Euro Strong Lager,20,2.9,0.954215025971334
+676,32844,1315,Weltenburger Kloster Oktober-Festbier,MÃ¤rzen / Oktoberfest,4,3.75,0.5
+677,32923,13831,Taps Wine Barrel Lager,American Pale Lager,6,3.4166666666666665,0.7359800721939871
+678,33040,5510,Kiper Lager,Euro Pale Lager,1,4.5,
+679,33116,1413,British Mild Ale,English Dark Mild Ale,1,4.0,
+680,33227,365,Pike Tandem Double Ale,American Strong Ale,57,3.5964912280701755,0.6369472147564235
+681,33242,1386,"Harmon Killer Brew, Version 9",Scotch Ale / Wee Heavy,1,3.0,
+682,33272,1454,Pumpkin Ale,Pumpkin Ale,1,3.0,
+683,33445,3403,Witches Cauldron,English Brown Ale,1,3.5,
+684,33505,14,Pisser Mauvais,American Wild Ale,2,4.5,0.0
+685,33584,163,Amstel (Pure Filtered),Euro Pale Lager,4,2.375,0.4787135538781691
+686,33624,14879,Hoppin' To Heaven IPA,American IPA,155,3.8483870967741933,0.6146855218251989
+687,33644,14879,B.O.R.I.S. The Crusher Oatmeal-Imperial Stout,Russian Imperial Stout,635,4.1716535433070865,0.4996682870951399
+688,33662,14879,Bodacious Black & Tan,Black & Tan,97,3.9536082474226806,0.4899111007090348
+689,33698,807,Autumn Fall,English Bitter,3,4.0,0.5
+690,33706,1386,Mild Thing,Extra Special / Strong Bitter (ESB),2,4.0,0.0
+691,33772,936,13th Anniversary Imperial India Pale Ale,American Double / Imperial IPA,1,3.5,
+692,33783,7091,Foxy Lady,English Bitter,1,4.0,
+693,33869,13905,La Trouille,Pumpkin Ale,7,3.142857142857143,0.8997354108424375
+694,33880,3403,Blessed Thistle,Scottish Gruit / Ancient Herbed Ale,8,3.6875,0.2587745847533828
+695,33927,14879,Gulden Fraug Belgian Style Ale,Belgian Strong Pale Ale,37,3.364864864864865,0.7036477244474821
+696,34146,1199,Founders Double Trouble,American Double / Imperial IPA,857,4.108518086347725,0.5068546700057269
+697,34152,5500,Black Forest Robust Porter,American Porter,1,3.0,
+698,34326,3403,Winter Flurry,English Bitter,1,2.5,
+699,34341,7402,Hopilicous,American Amber / Red Ale,2,3.75,0.3535533905932738
+700,34342,7402,Autumn Bock,Bock,2,4.0,0.0
+701,34343,7402,Christmas Ale,American Amber / Red Ale,3,4.166666666666667,0.28867513459481275
+702,34361,394,Stoudt's Barrel Aged Old Abominable,English Barleywine,29,4.189655172413793,0.4312314820754687
+703,34362,394,Stoudt's Barrel Aged  Fat Dog (Imperial Oatmeal Stout),American Double / Imperial Stout,44,4.2272727272727275,0.4994711791222636
+704,34368,11710,Help Henk De Winter Door!,Belgian Strong Pale Ale,1,3.0,
+705,34393,5500,Black Forest No Fail Pale Ale,American Pale Ale (APA),1,4.0,
+706,34416,5049,Wild Hare,English Bitter,3,3.6666666666666665,0.2886751345948129
+707,34419,1199,Founders Peter Piper Peppered Pale,American Pale Ale (APA),4,3.25,0.5
+708,34461,1199,Founders Amber,American Amber / Red Ale,1,3.5,
+709,34569,850,The Tater Ale,Fruit / Vegetable Beer,1,3.5,
+710,34590,365,Monk's Uncle Tripel,Tripel,71,3.612676056338028,0.4720561641720154
+711,34636,395,Etrange De Leah,Dubbel,1,3.5,
+712,34637,395,Darby Blonde Ale,American Blonde Ale,1,3.5,
+713,34722,7091,Old Frostie,English Bitter,1,4.0,
+714,34738,1463,Harboe Vib Pilsner HÃ¥ndbajer,Euro Pale Lager,1,3.5,
+715,34808,13905,La RÃ©cidive,Milk / Sweet Stout,12,3.7083333333333335,0.8649312461728164
+716,34982,10541,CucapÃ¡ Barleywine,American Barleywine,28,3.7857142857142856,0.5998236072282916
+717,35036,1199,Founders Backwoods Bastard,Scotch Ale / Wee Heavy,778,3.9845758354755785,0.6180624330957641
+718,35064,15527,Meta Export Lager,American Adjunct Lager,10,3.75,0.5400617248673217
+719,35156,5510,Kiper Mocne,Euro Pale Lager,2,3.75,0.3535533905932738
+720,35228,1454,Ankle Biter Ale '07,English Barleywine,1,4.0,
+721,35351,3965,Espresso Stout,American Stout,3,4.166666666666667,1.0408329997330663
+722,35378,395,Heine Brothers Coffee Stout,Oatmeal Stout,22,3.840909090909091,0.7774556125189589
+723,35386,971,Festival Bock,Bock,1,4.0,
+724,35571,11203,Ruby Red Ale,American Amber / Red Ale,1,3.5,
+725,35572,11203,Woodstock Wheat,Hefeweizen,2,4.0,1.4142135623730951
+726,35573,11203,Fat Boy Blue,Fruit / Vegetable Beer,2,2.75,0.3535533905932738
+727,35643,12224,Aiko Pale,Euro Pale Lager,12,3.0833333333333335,0.9731236802019037
+728,35649,3268,Barrel Aged Smoke (Smoked Porter),American Porter,81,4.012345679012346,0.7498971122843089
+729,35707,2850,Spalter Premium Pils,German Pilsener,1,4.0,
+730,35717,365,Pike Pale Heirloom Amber Ale,American Amber / Red Ale,23,3.5434782608695654,0.5623215571155337
+731,35881,15636,Riverdog ESB,Extra Special / Strong Bitter (ESB),2,4.0,0.0
+732,35882,15636,Devil's Hole Stout,American Stout,2,3.75,0.3535533905932738
+733,35886,2850,Spalter Helles Vollbier,Munich Helles Lager,2,4.25,0.3535533905932738
+734,35982,2430,Sakara King,American Malt Liquor,2,1.75,0.3535533905932738
+735,36035,15636,Somethin' Lite,American Blonde Ale,1,3.0,
+736,36036,15636,Big Aft Pale Ale,American Pale Ale (APA),2,4.25,0.3535533905932738
+737,36037,15636,'Pooya Porter,American Porter,1,4.0,
+738,36039,15636,Calapooia Barleywine,American Barleywine,1,5.0,
+739,36083,13228,Best Bitter,English Bitter,1,2.5,
+740,36167,395,RIP - Russian Imperial Porter,American Porter,22,3.727272727272727,0.335490853160131
+741,36267,10541,CucapÃ¡ Light,Light Lager,2,2.75,0.3535533905932738
+742,36268,10541,CucapÃ¡ TrigueÃ±a,American Blonde Ale,2,3.75,0.3535533905932738
+743,36269,10541,CucapÃ¡ Obscura,American Brown Ale,50,3.45,0.6943650748294143
+744,36270,10541,CucapÃ¡ Honey,American Blonde Ale,25,3.42,0.672061505121865
+745,36299,4103,Breznak Schwarzbier,Schwarzbier,9,3.6666666666666665,0.7500000000000001
+746,36348,5892,Schwarz Hacker,Schwarzbier,1,3.0,
+747,36367,13670,Cleansing Ale,American Blonde Ale,9,2.611111111111111,0.8579691784155834
+748,36376,13905,La DÃ©livrance,Scotch Ale / Wee Heavy,5,3.6,0.5477225575051661
+749,36380,765,Trafalgar Maple Bock,Bock,11,2.0,1.1832159566199232
+750,36391,14,Spring Training IPA,American IPA,14,4.25,0.4274252071325555
+751,36470,1463,"Harboe Silver Beer 3,5%",Euro Pale Lager,1,2.0,
+752,36484,1463,"Harbroe Classic Beer 2,8%",Euro Pale Lager,1,3.0,
+753,36522,1199,Founders Bourbon Maple Porter,American Porter,4,4.25,0.6454972243679028
+754,36580,1463,"Harboe Pilsner 2,8%",Euro Pale Lager,1,1.5,
+755,36609,1463,"Harboe PÃ¥skebryg 2,8%",Euro Pale Lager,1,3.5,
+756,36661,577,Tigh Dearg Ale,Scottish Ale,1,4.5,
+757,36670,394,Smooth Hoperator,Doppelbock,175,4.071428571428571,0.44435891349962675
+758,36732,8775,Steambock,Maibock / Helles Bock,1,3.0,
+759,36757,8775,German Pilsener,German Pilsener,1,4.0,
+760,36776,1199,Founders Braggot,Braggot,1,4.0,
+761,36862,14879,Wild Frog Wheat Ale,Hefeweizen,60,3.775,0.6066370204465525
+762,36943,16050,Helles Weissbier Resi,Hefeweizen,1,4.5,
+763,36982,16041,O'Scura,Munich Dunkel Lager,1,3.5,
+764,37045,807,Valiant,English Bitter,2,4.5,0.0
+765,37046,807,Gemini Double Trouble,English Bitter,1,3.5,
+766,37174,3268,Summer Brew,American Blonde Ale,1,3.5,
+767,37175,1463,Harboe Dunkel,Munich Dunkel Lager,2,1.75,0.3535533905932738
+768,37237,1463,Harboe Premium Traditional Pilsner 4.6%,Euro Pale Lager,1,1.5,
+769,37403,1199,Founders Deca 10th Anniversary,American Barleywine,58,3.9310344827586206,0.6652283334556518
+770,37506,13905,TÃ©mÃ©raire,Old Ale,7,3.5714285714285716,0.34503277967117707
+771,37518,14879,Mean Manalishi Double I.P.A.,American Double / Imperial IPA,248,3.622983870967742,0.7972599633316062
+772,37559,1386,J.T. Memorial Kolsch,KÃ¶lsch,1,3.0,
+773,37619,3351,Stones Pale Ale,English Pale Ale,1,4.0,
+774,37650,13831,Taps Vanilla Wheat,Hefeweizen,7,3.7857142857142856,0.9063269671749659
+775,37681,13905,Le Rock 66,Light Lager,2,4.25,0.3535533905932738
+776,37930,13614,Neder Keller Bier,Keller Bier / Zwickel Bier,1,4.0,
+777,37952,2446,Blackwater Uber Pale Ale,American Black Ale,15,4.066666666666666,0.37161167647860344
+778,38196,395,Weizenbock,Weizenbock,1,4.0,
+779,38200,395,Drunkelweizen,Dunkelweizen,1,4.0,
+780,38213,1199,Founders Charred Red's Rye,Rye Beer,1,4.5,
+781,38226,850,Dixie Crystal Beer,Tripel,3,3.6666666666666665,0.2886751345948129
+782,38233,1463,Harboe Sommarbrygg,Euro Pale Lager,1,2.0,
+783,38261,6272,River Rock Bitter,English Bitter,5,3.9,0.5477225575051662
+784,38414,1454,Extra Pale Ale,American Pale Ale (APA),1,3.5,
+785,38468,16269,Monk In The Trunk,American Amber / Red Ale,28,3.2857142857142856,0.725572206231073
+786,38540,1463,Harboe KrÃ¤ftÃ¶l,Euro Pale Lager,1,2.0,
+787,38552,765,Trafalgar Smoked Oatmeal Stout,Smoked Beer,28,2.875,0.8779711460710614
+788,38619,807,Spring Goddess,English Bitter,1,4.5,
+789,38683,13905,1er Anniversaire,Dubbel,4,3.625,0.47871355387816905
+790,38754,16321,LÃ¤ndlegold Premium,Euro Pale Lager,1,2.5,
+791,38766,5319,Oak Aged Los Diablos Del Paso,American IPA,1,5.0,
+792,38807,16319,Battin Extra,Maibock / Helles Bock,1,2.0,
+793,38808,16319,Bofferding Lager Pils,Czech Pilsener,1,2.0,
+794,38827,14338,NÃ¼a Bionda,Belgian Pale Ale,1,3.5,
+795,38865,765,Trafalgar Peppermint Porter,English Porter,1,3.5,
+796,38866,765,Trafalgar Black Bullet,American Strong Ale,6,2.5833333333333335,1.0684880283216405
+797,38982,14879,Smashing Berry Ale,Fruit / Vegetable Beer,8,2.5,1.4392458342578487
+798,39007,1454,Herr Kevin's Alt Bier,Altbier,1,4.0,
+799,39008,1454,Monon Porter,American Porter,3,4.833333333333333,0.2886751345948129
+800,39009,1454,Dual Citizenship Ale,American Pale Ale (APA),1,4.5,
+801,39030,5514,Staropolskie Porter,Baltic Porter,2,3.75,1.0606601717798212
+802,39215,395,Oktoberfest,MÃ¤rzen / Oktoberfest,5,3.9,0.8215838362577492
+803,39289,14756,American Pale Ale,American Pale Ale (APA),24,3.625,0.7696696072652383
+804,39299,3268,Goats Breath Bock,Bock,38,3.736842105263158,0.5293652765502002
+805,39314,8802,Telford Porter,English Porter,1,4.5,
+806,39360,395,Anvil Steam,California Common / Steam Beer,1,3.0,
+807,39480,5246,Chattachoochee Brown Ale,American Brown Ale,1,4.0,
+808,39550,15737,Grumpy's Original Draught,Dortmunder / Export Lager,1,4.5,
+809,39606,2724,Leviathan Imperial Stout,American Double / Imperial Stout,8,3.9375,0.6232117273791123
+810,39618,1199,Founders All Night Long DIPA,American Double / Imperial IPA,2,4.25,0.3535533905932738
+811,39669,1199,Founders Vanilla Porter,American Porter,3,3.8333333333333335,0.28867513459481287
+812,39677,10154,Santa's Stocking Filler,English Pale Ale,1,3.0,
+813,39716,13228,Celt,Scottish Ale,2,3.0,0.7071067811865476
+814,39886,1386,10 Year Clelebration Ale,American IPA,1,4.0,
+815,40004,1413,Desert Edge ESB,Extra Special / Strong Bitter (ESB),1,3.5,
+816,40028,395,Sheltowee Hop-A-Lot IPA,American Double / Imperial IPA,28,3.875,0.48352486626470037
+817,40140,2446,Farmer Ted's Farmhouse Ale,Saison / Farmhouse Ale,1,3.0,
+818,40153,14879,Silk Porter,American Porter,108,3.7916666666666665,0.5516542666440124
+819,40176,12224,Lobster Lovers Beer,Euro Strong Lager,50,2.99,0.7921167714370386
+820,40248,15636,Fresh Hop Rye,Rye Beer,1,4.5,
+821,40268,14,Blackout Stout,Irish Dry Stout,1,4.0,
+822,40302,394,Stoudt's Brewer's Reserve Scotch Style Ale,Scotch Ale / Wee Heavy,2,4.0,0.0
+823,40303,394,Stoudt's Brewer's Reserve Abbey Double Ale,Dubbel,3,4.0,0.0
+824,40308,14365,Kingpin Kolsch,KÃ¶lsch,3,4.166666666666667,0.28867513459481275
+825,40319,5752,Freiherrn Pils,German Pilsener,1,3.0,
+826,40336,395,Sheltowee Sunrise Golden Ale,American Blonde Ale,2,2.5,0.0
+827,40342,13228,Strong,English Strong Ale,2,3.5,0.0
+828,40448,15636,BourbonDog ESB,Extra Special / Strong Bitter (ESB),1,5.0,
+829,40484,1199,Founders Ambrosia Tart,Fruit / Vegetable Beer,2,4.75,0.3535533905932738
+830,40537,15636,Undertow,Russian Imperial Stout,1,4.5,
+831,40595,10541,CucapÃ¡ La Migra Imperial Stout,American Double / Imperial Stout,12,3.7083333333333335,0.39648073054937966
+832,40629,14365,Firkin - Twig & Berries Kolsch,KÃ¶lsch,1,3.5,
+833,40631,14365,Centennial,American Strong Ale,1,4.5,
+834,40632,14365,Yorkshire Porter,American Porter,1,4.5,
+835,40765,16791,Otro Mundo Strong Red Ale,English Strong Ale,27,3.3333333333333335,0.6504436355879911
+836,40766,16791,Otro Mundo Golden Ale,English Pale Ale,9,3.111111111111111,0.7406828681096325
+837,40767,16791,Otro Mundo Nut Brown Ale,English Brown Ale,1,1.5,
+838,40815,12224,Werewolf,Belgian Dark Ale,37,2.7972972972972974,0.7308619289299175
+839,40980,13228,Keller,Keller Bier / Zwickel Bier,3,4.333333333333333,0.2886751345948129
+840,41084,2724,Grey Whale Ale,American Pale Ale (APA),3,2.5,1.3228756555322954
+841,41106,14,LuvBuzz  Espresso Stout,American Stout,3,4.333333333333333,0.2886751345948129
+842,41116,14,Cherry Stout,Fruit / Vegetable Beer,1,3.5,
+843,41130,11863,La Goule,Witbier,1,3.5,
+844,41136,14,OM,Belgian Strong Pale Ale,3,4.333333333333333,0.2886751345948129
+845,41240,395,Kick In The Baltic Porter,Baltic Porter,4,4.25,0.28867513459481275
+846,41294,1,Pilsner Urquell 3.5%,Czech Pilsener,2,3.5,0.0
+847,41315,765,Trafalgar Oak-Aged Rye,Rye Beer,18,3.0833333333333335,0.7122871199007257
+848,41360,807,XB,English Bitter,2,4.5,0.7071067811865476
+849,41476,2850,Spalter Premium Pils Nr.1,German Pilsener,2,4.0,0.7071067811865476
+850,41491,3965,O'Houlihan's Irish Red Ale,Irish Red Ale,1,3.0,
+851,41492,3965,C Street Wheat Ale,American Pale Wheat Ale,2,2.5,0.7071067811865476
+852,41503,394,Stoudt's Birthday Beer,American Amber / Red Lager,2,4.0,0.7071067811865476
+853,41508,5514,Zagloba Mocne,Euro Strong Lager,3,3.6666666666666665,0.2886751345948129
+854,41516,14,Saison Noire,Saison / Farmhouse Ale,1,4.0,
+855,41519,14484,Irish Porter,English Porter,2,3.75,0.3535533905932738
+856,41532,395,Queen's Knickers,Old Ale,2,4.0,0.0
+857,41557,6272,Habit Espresso Stout,English Stout,2,4.25,0.3535533905932738
+858,41613,12224,"Zhiguly Grande 9,5",Euro Strong Lager,8,3.3125,0.8838834764831844
+859,41647,5049,SPA,English Bitter,1,4.0,
+860,41683,850,Slow-Vannah Pale Ale,American Pale Ale (APA),8,4.1875,0.258774584753383
+861,41688,394,Brewers Reserve Imperial Pilsner,American Double / Imperial Pilsner,6,3.9166666666666665,0.2041241452319315
+862,41767,1303,World's Biggest Liar,English Bitter,2,3.75,0.3535533905932738
+863,41768,9816,PÃ¥ske Bryg,Euro Pale Lager,1,3.0,
+864,41772,16517,Trippel Trouble,Tripel,3,4.333333333333333,0.5773502691896258
+865,41778,10541,CucapÃ¡ Chupacabras Pale Ale,English Pale Ale,78,3.4294871794871793,0.6824533615878748
+866,41788,15636,Chili Beer,Chile Beer,3,4.166666666666667,0.28867513459481275
+867,41816,1199,Founders Barrel-Aged Porter,American Porter,8,4.5,0.26726124191242434
+868,41843,14338,Seson,Saison / Farmhouse Ale,11,4.045454545454546,0.415604707296817
+869,41866,395,Dubbel Dribbel,Dubbel,1,3.5,
+870,41881,13905,Hoppy,American IPA,11,3.409090909090909,0.6640098575390961
+871,42030,16517,Black Forest Bock,Bock,2,4.0,0.0
+872,42195,1417,Tesco Finest Golden Ale,English Pale Ale,1,3.0,
+873,42273,5321,Erik The Red,Irish Red Ale,1,4.5,
+874,42331,16863,Wapping Magna 800,English Bitter,1,3.0,
+875,42332,16863,Wapping Summer Ale,English Bitter,1,3.5,
+876,42534,16517,Maple Moon Ale,English Pale Mild Ale,2,3.75,0.3535533905932738
+877,42573,1463,"Harboe BjÃ¸rnebryg 2,8%",Euro Pale Lager,1,2.5,
+878,42591,16386,The Big O,American Blonde Ale,11,3.772727272727273,0.7537783614444091
+879,42626,16890,Livu No. 1 Turbo Bock Beer,Bock,2,2.5,0.0
+880,42627,9816,Ãgte Fynsk Boghvedebryg,Belgian Pale Ale,1,3.5,
+881,42830,9816,Havgassens Kabys Lundeborg,Belgian Strong Dark Ale,1,2.5,
+882,42904,765,Trafalgar Dark Wheat,American Dark Wheat Ale,1,3.0,
+883,42939,1199,Founders Dumbo Head Wheat Beer,American Pale Wheat Ale,6,4.166666666666667,0.752772652709081
+884,42948,12224,Werewolf (Green Label),Euro Pale Lager,11,2.772727272727273,0.9582180431310078
+885,42953,1463,SkÃ¦lskÃ¸r Original Black,Schwarzbier,1,2.0,
+886,43091,16386,Hopdinger,American Pale Ale (APA),58,3.6724137931034484,0.7227610566913318
+887,43108,16386,Belgian Style Dark,Belgian Strong Dark Ale,6,3.1666666666666665,0.9309493362512627
+888,43114,13905,L'Accommodante,Belgian Pale Ale,5,3.2,0.27386127875258304
+889,43146,17212,New Model Ale,English Pale Ale,1,3.0,
+890,43151,394,Black Eye PA (Brewer's Reserve),American IPA,5,3.6,0.5477225575051661
+891,43312,394,Stoudts Heifer-in-Wheat,Hefeweizen,75,3.8266666666666667,0.5165722087441861
+892,43364,1454,Finneen's Auld Sod Stout,Irish Dry Stout,2,4.75,0.3535533905932738
+893,43373,1199,Founders Solid Gold Extra Pale Ale,English Pale Ale,4,4.0,0.0
+894,43396,16994,Steel Valley Stout,American Stout,3,3.8333333333333335,0.7637626158259733
+895,43438,394,Brett's Organic Kolsch (Brewer's Reserve),KÃ¶lsch,4,4.25,0.28867513459481275
+896,43514,12224,Gedimino,Euro Pale Lager,5,3.0,0.7071067811865476
+897,43516,1454,Amarillo Lager,American Amber / Red Lager,2,4.5,0.7071067811865476
+898,43837,16517,Dubbel Donker,Belgian Strong Dark Ale,1,4.5,
+899,43893,7402,Polygamy Porter,American Porter,39,3.4871794871794872,0.8621208509677828
+900,43904,2310,Silver State Saison,Saison / Farmhouse Ale,1,4.5,
+901,43920,12003,Imperial Pilsener,American Double / Imperial Pilsner,1,4.0,
+902,43922,12003,Double Barrel Oatmeal Stout,Oatmeal Stout,1,4.5,
+903,43944,1454,Black Heart Lager,Euro Dark Lager,3,4.166666666666667,0.7637626158259733
+904,44019,13905,La Public House LÃ©gÃ¨re,American Blonde Ale,1,4.0,
+905,44081,850,Gene's American Brown Ale,American Brown Ale,1,5.0,
+906,44082,2724,Orca Porter,American Porter,1,3.5,
+907,44161,14,Petit Mort,Tripel,2,3.25,1.0606601717798212
+908,44279,14,Berliner Kendall,Berliner Weissbier,6,3.9166666666666665,0.5845225972250062
+909,44351,765,Elora Special Bitter,English Bitter,14,3.107142857142857,0.9235918893223227
+910,44429,7732,LIDO GaiÂais,Euro Pale Lager,1,3.5,
+911,44459,7732,LIDO Speci&#257;lais,Vienna Lager,2,3.75,0.3535533905932738
+912,44537,16517,Middle Town Braun,Munich Dunkel Lager,3,4.166666666666667,0.28867513459481275
+913,44579,14756,Dark Star Porter,English Porter,19,3.5789473684210527,0.5836465324610447
+914,44596,395,Amber Ale - German Style Altbier,Altbier,8,3.125,0.44320263021395917
+915,44684,13905,Blanche De Dunham,Hefeweizen,3,3.3333333333333335,0.7637626158259733
+916,44686,13905,2e Anniversaire,American Double / Imperial Stout,1,3.5,
+917,44687,10774,Porter Fume,Smoked Beer,2,3.75,0.3535533905932738
+918,44704,12224,Lobster Lovers Beer (Blue Label),Euro Pale Lager,7,2.7142857142857144,0.6362090102803519
+919,44909,394,PA Dutch Dunkel Brewers Reserve,Dunkelweizen,6,3.5833333333333335,0.5845225972250062
+920,44914,1199,Founders Crystal Rye Persuasion,Rye Beer,4,4.25,0.28867513459481275
+921,45116,2554,Matso's Smokey Bishop,Munich Dunkel Lager,1,3.5,
+922,45132,14756,Altbier,Altbier,13,3.730769230769231,0.6650621717611762
+923,45137,14756,Professor Gesser's Mind Numbing Ale,American Double / Imperial IPA,2,3.25,0.3535533905932738
+924,45201,7402,Cowboy Coffee Stout,American Stout,1,4.0,
+925,45260,16386,Night Train,American Porter,44,3.8636363636363638,0.4984118541139982
+926,45318,1413,Radius,Cream Ale,1,4.0,
+927,45344,1386,Bring Me A Shrubbery Ale,Scottish Gruit / Ancient Herbed Ale,1,3.5,
+928,45347,1386,Harmon's Killer Brew,American Dark Wheat Ale,1,3.5,
+929,45450,2310,Smoke Creek Rauchbock,Rauchbier,5,3.3,1.0954451150103321
+930,45482,16386,Picnic Ants,Saison / Farmhouse Ale,17,3.3823529411764706,0.650226204983357
+931,45555,13228,Whiskey Bock,Doppelbock,2,3.0,0.0
+932,45628,8802,Honey Fayre,English Bitter,1,3.0,
+933,45701,2618,Pirinsko Svetlo,Euro Pale Lager,1,3.5,
+934,45726,14,Black Magic,Pumpkin Ale,1,4.5,
+935,45727,14,Gourd Of The Rings,Pumpkin Ale,1,4.0,
+936,45743,14,Spinal Pumpkin,Pumpkin Ale,3,3.3333333333333335,0.7637626158259733
+937,45774,395,Jeffersons Reserve Big Fella Bourbon Barrel Stout,American Double / Imperial Stout,2,3.75,0.3535533905932738
+938,45820,3268,Cocoa Cream Stout,Milk / Sweet Stout,10,3.55,0.7619419633774974
+939,45855,8802,Celebration Ale,English Bitter,1,3.0,
+940,45878,14,The Audacity Of Hops,Belgian IPA,29,4.086206896551724,0.535673233238214
+941,45885,1386,T-Town Maple Brown,American Brown Ale,1,4.0,
+942,45887,1386,One Hop Wonder #4 (Sterling),American IPA,1,3.0,
+943,45922,395,Sheltowee 502 Amber Ale,American Amber / Red Ale,9,3.888888888888889,0.48591265790377497
+944,45923,395,Sheltowee GloomSucker Black Ale,Schwarzbier,12,3.6666666666666665,0.4438126822992975
+945,45991,365,Pike Auld Acquaintance Hoppy Holiday Ale,Winter Warmer,42,3.6904761904761907,0.4410682839726717
+946,46078,807,Eastern Promise,Herbed / Spiced Beer,2,3.25,0.3535533905932738
+947,46088,16386,Lupulin Maximus Imperial IPA,American Double / Imperial IPA,30,3.783333333333333,0.7153891313092495
+948,46089,14,Up On Cripple Kriek,Flanders Red Ale,1,4.0,
+949,46170,17285,1984 Golden Ale,Cream Ale,2,4.0,0.7071067811865476
+950,46179,2804,MM Pils,German Pilsener,1,3.5,
+951,46238,18012,LPA (Lauren's Pale Ale),English Pale Ale,7,3.357142857142857,1.1073348527841416
+952,46242,18012,Lil's Pils,German Pilsener,3,4.0,0.0
+953,46248,16994,Buckeye Brown,American Brown Ale,1,3.0,
+954,46249,16994,Alt-Ernative Amber,Altbier,2,3.75,1.0606601717798212
+955,46252,16994,Ohio Pumpkin Ale,Pumpkin Ale,1,4.0,
+956,46254,16994,Cardinal Ale,Irish Red Ale,2,3.25,1.0606601717798212
+957,46255,16994,Verich Gold,KÃ¶lsch,2,4.25,0.3535533905932738
+958,46276,18636,Gullfoss,Euro Pale Lager,1,2.5,
+959,46317,1199,Founders Nitro Expresso Porter,American Porter,5,4.3,0.447213595499958
+960,46386,365,Pike Entire - Wood Aged Stout,American Double / Imperial Stout,45,3.577777777777778,0.852506701890183
+961,46634,14338,Chiostro,Herbed / Spiced Beer,17,3.676470588235294,0.5847322162373836
+962,46639,18816,Friar Mike's IPA,English India Pale Ale (IPA),2,4.25,0.3535533905932738
+963,46650,18847,Orgemont Blonde,Belgian Pale Ale,1,4.0,
+964,46670,16386,Dank Imperial Red,American Amber / Red Ale,20,3.95,0.48395302077349367
+965,46683,16994,Twice Bitten,American Strong Ale,4,4.25,0.28867513459481275
+966,46821,16890,L&#299;vu Sen&#269;u,Euro Pale Lager,1,2.5,
+967,46824,14,Funky Bitch,American Wild Ale,1,3.0,
+968,46825,14,Delilah,Belgian Pale Ale,1,3.0,
+969,46856,14,Samson,Belgian Strong Dark Ale,1,3.5,
+970,47046,2310,Red Nose Holiday Wassail,Winter Warmer,2,3.75,0.3535533905932738
+971,47084,14,Darkest Night,Winter Warmer,5,3.8,0.27386127875258315
+972,47237,17285,BrightSide Belgian White,Witbier,2,4.25,0.3535533905932738
+973,47240,17285,HOPtimal Munition APA,American Pale Ale (APA),2,4.75,0.3535533905932738
+974,47241,17285,Homeward Brown,American Brown Ale,2,4.0,0.7071067811865476
+975,47245,2446,Hyper Monkey Java Stout,American Stout,5,4.0,0.7905694150420949
+976,47421,6513,Schorschbock,Doppelbock,4,3.625,0.47871355387816905
+977,47422,394,Brewer's Reserve Munich Dark Lager,Munich Dunkel Lager,3,4.0,0.5
+978,47541,9020,Rye Saison,Saison / Farmhouse Ale,27,3.8703703703703702,0.42950312510264094
+979,47569,14,Never Mind The Bollekes!,Belgian Pale Ale,2,4.5,0.7071067811865476
+980,47570,14,CaCow! Chocolate Milk Stout,Milk / Sweet Stout,4,3.75,0.2886751345948129
+981,47596,14,Sherry Cask Blunderbuss,American Barleywine,1,4.5,
+982,47646,1497,Amber,American Amber / Red Ale,1,4.0,
+983,47658,1199,Founders CBS Imperial Stout,American Double / Imperial Stout,482,4.58402489626556,0.42978259673928965
+984,47659,1199,Founders Hand Of Doom,American Double / Imperial IPA,52,3.9615384615384617,0.7786750552245523
+985,47693,394,Stoudt's Scrawny Dog,English Stout,7,4.0,0.40824829046386313
+986,47694,14879,Outta Kilter,Scotch Ale / Wee Heavy,50,3.7,0.494871659305394
+987,47695,14879,Barrel Aged B.O.R.I.S. Oatmeal Imperial Stout,Russian Imperial Stout,298,4.130872483221476,0.5377843720514459
+988,47710,395,Old St. Matthews,Old Ale,2,4.5,0.7071067811865476
+989,47712,395,Bourbon Barrel Rye Porter,American Porter,7,4.142857142857143,0.24397501823713344
+990,47781,1386,Wet Dog Wheat Wine,Wheatwine,2,2.75,0.3535533905932738
+991,47783,1386,Porter Porter,American Porter,3,4.166666666666667,1.0408329997330663
+992,47832,1199,Founders Black IPA,American Black Ale,4,3.625,0.7499999999999999
+993,47843,8775,Haleighs Honey Brown,English Brown Ale,1,4.0,
+994,47880,850,Oak-Aged Black River Imperial Stout,American Double / Imperial Stout,1,4.0,
+995,47969,10325,Sausa Pils,German Pilsener,1,3.0,
+996,47986,10325,Sausa Weizen,Hefeweizen,1,1.5,
+997,48047,2554,Matso's Monsoonal Blonde,Herbed / Spiced Beer,6,2.75,0.4183300132670378
+998,48061,13614,Erstes Forchheimer Braunbier,Munich Dunkel Lager,1,3.5,
+999,48066,13905,McDanny's Scotch Ale,Scotch Ale / Wee Heavy,1,3.5,
+1000,48078,17285,Black Sky Stout Porter,American Porter,1,4.5,
+1001,48112,17285,Cardinal Direction Abbey Dubbel,Dubbel,2,3.75,0.3535533905932738
+1002,48148,7402,The Devastator Double Bock,Doppelbock,27,3.259259259259259,0.6845881744968789
+1003,48167,765,Trafalgar Cedar Cream Ale,Cream Ale,12,2.375,0.678400525299968
+1004,48172,17285,Black Dawn Coffee Porter,American Porter,3,4.166666666666667,0.28867513459481275
+1005,48213,10325,Red Moon,English Strong Ale,1,3.0,
+1006,48215,10325,Black Horse Black Beer,Foreign / Export Stout,1,3.0,
+1007,48301,18012,Oatmeal Ellie,Oatmeal Stout,7,3.2857142857142856,1.4679107277903192
+1008,48313,5049,Dark Hare,English Stout,1,4.0,
+1009,48422,6272,Winter Gale Strong Ale,Winter Warmer,2,3.0,0.7071067811865476
+1010,48438,7402,Evolution Amber Ale,American Amber / Red Ale,3,3.1666666666666665,0.5773502691896258
+1011,48439,7402,Superior Ale,American Barleywine,2,2.0,1.4142135623730951
+1012,48466,3282,Belgoo Magus,Witbier,30,3.9,0.42345052228989716
+1013,48519,21516,Kirkland Signature Hefeweizen,Hefeweizen,40,3.2375,0.6601039156732674
+1014,48521,21516,Kirkland Signature German Style Lager,MÃ¤rzen / Oktoberfest,30,3.2,0.8366600265340759
+1015,48525,365,Pike Double IPA,American Double / Imperial IPA,42,3.7857142857142856,0.5646373446828092
+1016,48526,14,Sgt. Pepper,Saison / Farmhouse Ale,8,3.625,0.6943650748294136
+1017,48527,14,Golden Slumbers,Vienna Lager,2,4.5,0.0
+1018,48530,7402,Bobsled Brown,American Brown Ale,5,3.3,0.27386127875258315
+1019,48548,18847,Orgemont BiÃ¨re RÃ¨mes Speciale Au Marc De Champagne,Belgian Pale Ale,1,4.0,
+1020,48549,18847,Orgemont BiÃ¨re Des Moissons,Belgian Dark Ale,1,4.0,
+1021,48550,18847,Orgemont Brune,Belgian Dark Ale,1,3.5,
+1022,48551,18847,Orgemont Triple,Tripel,2,3.5,0.7071067811865476
+1023,48555,21516,Kirkland Signature Pale Ale,American Pale Ale (APA),50,3.39,0.6250714244902624
+1024,48556,21516,Kirkland Signature Amber Ale,American Amber / Red Ale,55,3.4,0.5561108336107649
+1025,48605,395,Black Cherry Lambic,Lambic - Fruit,2,3.75,0.3535533905932738
+1026,48658,16517,Blacked Out Oatmeal Stout,Oatmeal Stout,3,4.5,0.0
+1027,48911,1199,Founders Cerise,Fruit / Vegetable Beer,372,3.649193548387097,0.607610666912511
+1028,48932,1386,60 Schilling Scottish Ale,Scottish Ale,1,4.5,
+1029,49038,1454,Broad Ripple Evilsizors Russian Imperial Stout,Russian Imperial Stout,2,4.25,0.3535533905932738
+1030,49071,17285,Dead Flowers,American Double / Imperial IPA,1,4.0,
+1031,49075,3351,Carling Premier,Euro Pale Lager,1,2.0,
+1032,49076,1199,Founders Barrel Aged Red's Rye,Rye Beer,11,4.090909090909091,0.4908249086070214
+1033,49077,1199,Founders Maple Mountain Brown,American Strong Ale,18,3.9444444444444446,0.5113099925649137
+1034,49237,1199,Founders Barrel Aged Imperial Stout,American Double / Imperial Stout,26,4.288461538461538,0.3787631693572366
+1035,49271,13905,Paradisiac,Scotch Ale / Wee Heavy,2,4.0,0.0
+1036,49360,14,Reckoning,American Wild Ale,10,3.7,0.5868938953886337
+1037,49391,395,Rye 75,American IPA,30,4.116666666666666,0.5363242285790563
+1038,49416,11863,Trompe Souris Noire,English Porter,1,4.5,
+1039,49418,16517,Bavarian Mind Block,Maibock / Helles Bock,2,4.0,0.0
+1040,49442,395,Bourbon Barrel Big Brown,American Strong Ale,3,3.8333333333333335,0.7637626158259733
+1041,49452,1199,Founders Paisley Park Pomegranate,Fruit / Vegetable Beer,3,4.166666666666667,0.7637626158259733
+1042,49485,1463,De 5 Gaarde Falle HÃ¸stbryg,Vienna Lager,1,3.0,
+1043,49490,936,Solar Winds,American Pale Ale (APA),3,4.5,0.5
+1044,49571,11863,Vieille Tour,English Brown Ale,1,2.5,
+1045,49707,2804,Haberman Premium Lager,Euro Pale Lager,1,3.0,
+1046,49718,13228,Stout,Foreign / Export Stout,3,3.8333333333333335,0.28867513459481287
+1047,49731,14,Kriek Du Cambridge 2009,Lambic - Fruit,2,3.75,0.3535533905932738
+1048,49748,7402,Nitro Cream Ale,Cream Ale,1,4.5,
+1049,49786,395,Bourbon Barrel Russian Imperial Porter,Baltic Porter,2,3.5,1.4142135623730951
+1050,49803,7345,Kirner Pils Premium,German Pilsener,4,4.0,0.40824829046386296
+1051,49864,1386,One Hop Wonder #9 - Columbus,American IPA,3,4.166666666666667,0.7637626158259733
+1052,49865,1,Gambrinus Excelent (Gambrinus 11),Czech Pilsener,2,3.5,0.0
+1053,49949,5970,Landbier-Hell,Dortmunder / Export Lager,1,4.0,
+1054,49959,13228,Dark Mild,English Dark Mild Ale,1,3.0,
+1055,50005,5970,MÃ¤rzen,MÃ¤rzen / Oktoberfest,1,3.5,
+1056,50083,5970,Heller Bock,Maibock / Helles Bock,1,4.0,
+1057,50084,6272,Bavarian Copper Bock,Bock,2,4.5,0.7071067811865476
+1058,50089,3965,Rye Pale Ale,American Pale Ale (APA),1,4.0,
+1059,50215,11159,Post&#345;iÂinskÃ© 11%,Czech Pilsener,1,3.5,
+1060,50267,16323,La Cervoise Des Ducs,Scottish Gruit / Ancient Herbed Ale,1,3.0,
+1061,50315,20268,Highlands IPA,American IPA,6,4.333333333333333,0.40824829046386285
+1062,50411,7601,Maibock,Maibock / Helles Bock,1,2.0,
+1063,50448,16386,Black Scotch Ale,Scotch Ale / Wee Heavy,10,3.35,0.85146931829632
+1064,50520,14,Imperial SkibsÃ¸l,Smoked Beer,2,4.0,0.7071067811865476
+1065,50524,5892,Daylight Rye,Rye Beer,1,4.5,
+1066,50525,395,Quad Lambic,Lambic - Unblended,6,3.0833333333333335,0.8612007121842543
+1067,50586,9816,Prima LandÃ¸l,Smoked Beer,1,4.5,
+1068,50698,14338,Nua Amore,American Blonde Ale,1,3.5,
+1069,50714,20268,Highlands Blackberry Wheat,American Pale Wheat Ale,3,3.6666666666666665,0.5773502691896258
+1070,50751,13905,3rd Anniversaire,Belgian Strong Pale Ale,3,2.6666666666666665,0.2886751345948129
+1071,50815,10541,CucapÃ¡ Jefe,American Pale Wheat Ale,1,4.0,
+1072,50929,395,Oak Aged Rye 75,Rye Beer,2,4.5,0.7071067811865476
+1073,51057,14,SkibsÃ¸l,Smoked Beer,1,4.0,
+1074,51192,8775,O'Griffs Lyte,American Blonde Ale,1,4.0,
+1075,51245,13670,Derwent Clear Ale,American Blonde Ale,2,2.75,0.3535533905932738
+1076,51248,1,Pilsner Urquell KvasnicovÃ½ (Unfiltered Yeast Beer),Czech Pilsener,3,4.166666666666667,0.28867513459481275
+1077,51301,1199,Founders Homegrown Spite (Mild),American Pale Ale (APA),9,2.888888888888889,0.7817359599705717
+1078,51404,20638,The Legendary Duff Beer,German Pilsener,14,2.7142857142857144,0.974961255922229
+1079,51426,5752,Klosterhell,Munich Helles Lager,2,3.75,0.3535533905932738
+1080,51466,6513,SchorschbrÃ¤u Schorschbock 31%,Eisbock,1,3.5,
+1081,51483,9020,Sue,American Porter,98,4.142857142857143,0.4425791326529005
+1082,51520,5510,Mocny Full,Euro Pale Lager,1,3.0,
+1083,51532,395,Bourbon Barrel Scotch Ale,Scotch Ale / Wee Heavy,6,3.8333333333333335,0.2581988897471612
+1084,51575,1,Gambrinus Svetly,Czech Pilsener,5,3.2,0.5700877125495689
+1085,51599,18816,Razz Wheat,American Pale Wheat Ale,1,4.0,
+1086,51601,18816,Apricot Cream Ale,Cream Ale,2,3.5,0.0
+1087,51613,18012,Emily's Ember,American Amber / Red Ale,4,2.75,0.6454972243679028
+1088,51622,12224,RinkuÂkiu MieÂinis (Barley),Euro Pale Lager,1,3.0,
+1089,51710,1199,Founders Rye Whisky Aged Porter,American Porter,9,4.333333333333333,0.5590169943749473
+1090,51721,2554,Mango Beer,Fruit / Vegetable Beer,5,2.5,0.5
+1091,51733,3965,Two Trees IIPA,American Double / Imperial IPA,1,3.5,
+1092,51749,807,Batemans G.H.A. Pale,English Bitter,1,4.0,
+1093,51751,2916,Tom Wood's Lincoln Red,English Strong Ale,1,4.5,
+1094,51792,15636,Riparian IPA,American IPA,3,3.8333333333333335,0.7637626158259733
+1095,51793,15636,White Water Wheat,American Pale Wheat Ale,1,2.5,
+1096,51804,12224,RinkuÂkiu Proginis (Occasional),Euro Pale Lager,1,3.0,
+1097,51814,15636,Pacific Pilsner,American Pale Lager,1,2.0,
+1098,51834,2724,Blue Whale Ale,American Amber / Red Ale,3,3.0,1.3228756555322954
+1099,51842,13228,IPA,English India Pale Ale (IPA),1,4.5,
+1100,51845,12224,RinkuÂkiai Agaro Tradicinis (Agar Traditional),Euro Pale Lager,1,2.5,
+1101,51874,14338,NÃ¼a Bruiar,Witbier,1,4.0,
+1102,51898,12224,Port Night,Euro Dark Lager,1,2.5,
+1103,51917,14879,Hop Master's Abbey Belgian-Style Double IPA,Belgian IPA,27,3.962962962962963,0.4143095722432949
+1104,52123,568,Karmi Classic,Euro Dark Lager,1,1.5,
+1105,52159,1075,Caldera Ginger Beer,Herbed / Spiced Beer,7,3.857142857142857,0.7480132415430957
+1106,52171,1386,Cowlitz Cream Ale,Cream Ale,1,3.0,
+1107,52175,1386,Old Clam Digger,American Barleywine,5,3.0,1.224744871391589
+1108,52211,14879,Frog's Hollow Double Pumpkin Ale,Pumpkin Ale,139,3.7014388489208634,0.5858210652655043
+1109,52239,5049,Golden Hare,English Bitter,4,3.25,0.2886751345948129
+1110,52269,395,Bourbon Barrel Old St. Matthews,Old Ale,2,4.25,0.3535533905932738
+1111,52275,20988,Rooster Red,American Amber / Red Ale,1,3.5,
+1112,52287,16863,Wapping Stout,English Stout,1,2.0,
+1113,52312,1199,Founders Spice Rack Attack,American Pale Ale (APA),1,2.0,
+1114,52333,13905,Triple De Cap-Rouge,Tripel,1,3.5,
+1115,52352,18012,Rose's Imperial Pilsner,American Double / Imperial Pilsner,3,3.5,0.5
+1116,52368,394,Brewers Reserve Belgian-Style Quad,Quadrupel (Quad),4,2.625,0.8539125638299665
+1117,52403,20988,Pumpkin Beer,Pumpkin Ale,1,3.5,
+1118,52405,860,Curacao Triple XXX,Tripel,1,4.5,
+1119,52425,14365,Broken Shovel Stout,American Stout,3,4.0,0.8660254037844386
+1120,52444,2310,Jason Green's Russian Imperial Stout,Russian Imperial Stout,1,3.5,
+1121,52445,18185,Nobu Special Reserve,Euro Pale Lager,3,3.0,1.0
+1122,52556,3268,Chocolate By The Barrel Cream Stout,Milk / Sweet Stout,17,3.823529411764706,0.4981583731163036
+1123,52703,2098,Double IPA,American Double / Imperial IPA,3,3.8333333333333335,0.28867513459481287
+1124,52742,17285,Bentonshire Bitter,English Bitter,1,3.0,
+1125,53010,7402,White Label,Witbier,5,3.6,0.5477225575051661
+1126,53129,14365,Seneca Pale Ale,American Pale Ale (APA),1,4.0,
+1127,53158,765,Trafalgar Malted Corpse,Irish Red Ale,8,2.375,0.790569415042095
+1128,53159,765,Trafalgar Hop Nouveau 2009,American Pale Ale (APA),13,3.5,0.6770032003863299
+1129,53258,20268,Highlands Belgian Witte,Witbier,3,3.5,0.5
+1130,53259,20268,Highlands American Brown,American Brown Ale,2,4.25,0.3535533905932738
+1131,53362,936,16 Year Anniversary Ale,American IPA,2,4.5,0.0
+1132,53421,16386,The Dominator Dopplebock,Doppelbock,6,4.0,0.5477225575051662
+1133,53449,365,Pike Tripel Kriek,Lambic - Fruit,1,4.0,
+1134,53466,1199,Founders HolÃ© MolÃ©,American Stout,2,3.0,1.4142135623730951
+1135,53468,1199,Founders Newaygo County Cherry,Fruit / Vegetable Beer,24,3.9166666666666665,0.8427009716003845
+1136,53495,365,Pike Tandem,Dubbel,40,3.725,0.4661627315730981
+1137,53497,1199,Founders Super Gold,American Pale Lager,3,4.166666666666667,0.28867513459481275
+1138,53513,14,Biere De Gourde,Pumpkin Ale,2,3.75,0.3535533905932738
+1139,53516,14,O.P.P. (Olde Pumpkin Porter),Pumpkin Ale,3,4.166666666666667,0.7637626158259733
+1140,53523,2055,Bernard S &#269;istou Hlavou,Low Alcohol Beer,1,2.0,
+1141,53579,2310,Hopasaurus,American IPA,2,4.5,0.0
+1142,53591,1386,Vienna Lager,Vienna Lager,2,3.75,0.3535533905932738
+1143,53677,20658,British Pale Ale,English Pale Ale,6,3.5,0.31622776601683794
+1144,53678,20658,Cutt's Ale,American Amber / Red Ale,1,3.5,
+1145,53679,20658,Ballz Deep Double IPA,American Double / Imperial IPA,16,3.5,0.7071067811865477
+1146,53779,14879,Fresh Frog Raw Hop Imperial Pale Ale,American Pale Ale (APA),21,4.0476190476190474,0.3124404705204618
+1147,53794,1199,Founders The Chronic,American Pale Ale (APA),4,4.0,0.816496580927726
+1148,53795,1199,Founders Wheatwine,Wheatwine,5,3.8,0.570087712549569
+1149,53846,13831,Taps Rosberg's Porter,American Porter,3,3.6666666666666665,1.0408329997330665
+1150,53906,14365,Pumpkin Haze,Pumpkin Ale,2,3.75,0.3535533905932738
+1151,53908,14365,Kolsch Ale,KÃ¶lsch,1,4.5,
+1152,53909,14365,Growlers I.P.A.,English Pale Ale,3,3.8333333333333335,0.28867513459481287
+1153,53959,1463,"Harboe Classic 2,8%",Euro Pale Lager,1,3.0,
+1154,54000,850,Rosemary IPA,American IPA,6,3.8333333333333335,0.4082482904638631
+1155,54028,1199,Founders Sappy Slappy Bastard,Scotch Ale / Wee Heavy,16,3.875,0.7416198487095664
+1156,54059,394,Stoudts Winter Ale (2009-2010),American Amber / Red Ale,26,3.6346153846153846,0.539586736451005
+1157,54060,17293,Amalgamated Zoigl,American Pale Lager,4,3.625,0.47871355387816905
+1158,54134,14879,Frosted Frog Christmas Ale,Winter Warmer,84,3.386904761904762,0.9063071850713711
+1159,54216,8802,Welsh Honey Bitter,English Bitter,2,3.25,0.3535533905932738
+1160,54265,395,Brandy Barrel Queen's Knickers,Old Ale,4,4.5,0.40824829046386313
+1161,54330,1075,Caldera MÃ¤rzen,MÃ¤rzen / Oktoberfest,1,4.5,
+1162,54361,765,Left Coast Pale Ale,American Pale Ale (APA),7,2.7857142857142856,0.6362090102803519
+1163,54372,1199,Founders Big Froot,Fruit / Vegetable Beer,2,3.0,0.7071067811865476
+1164,54396,5752,Urhell,Dortmunder / Export Lager,1,4.0,
+1165,54411,21590,Big Red IPA,American IPA,1,3.5,
+1166,54497,14,Howdy Pilgrim,English Bitter,2,4.25,0.3535533905932738
+1167,54498,14,St. Alphonzo,Belgian Pale Ale,2,4.25,0.3535533905932738
+1168,54545,18816,Arctic Blast Vanilla Porter,American Porter,2,3.5,0.7071067811865476
+1169,54724,20658,Port Royal Stout,American Stout,2,3.75,0.3535533905932738
+1170,54731,263,Aecht Schlenkerla Eiche,Doppelbock,167,4.047904191616767,0.5814230903933594
+1171,54772,13831,Taps Rye Knot?,Rye Beer,6,3.75,0.27386127875258304
+1172,54827,1199,Founders Black Biscuit,Old Ale,115,4.269565217391304,0.4788828214441342
+1173,54846,17293,Amalgamated Dunkel,Dunkelweizen,1,4.0,
+1174,54859,1289,Northwest IPA,English India Pale Ale (IPA),1,3.0,
+1175,54908,12224,Missing Elf,Doppelbock,18,2.8333333333333335,0.954863710632231
+1176,54995,11203,Big Mother Strong Scottish Ale,Scotch Ale / Wee Heavy,1,5.0,
+1177,55027,14338,Sesonette,Saison / Farmhouse Ale,4,4.125,0.75
+1178,55030,14338,NÃ¼a Barric,Flanders Red Ale,1,3.0,
+1179,55097,1454,Nut Brown,English Brown Ale,1,4.0,
+1180,55192,850,Nick's Balls Of Gold,American IPA,2,2.75,2.4748737341529163
+1181,55193,850,Skunk-Ape Stout,Irish Dry Stout,3,3.8333333333333335,0.28867513459481287
+1182,55339,8775,Washington Park Wheat,American Pale Wheat Ale,1,3.5,
+1183,55353,13831,Tap 3.14,Pumpkin Ale,1,3.5,
+1184,55410,3268,Russian Imperial Stout,Russian Imperial Stout,2,4.0,0.7071067811865476
+1185,55445,1454,Hopcicle Double IPA,American Double / Imperial IPA,2,4.5,0.7071067811865476
+1186,55454,21865,BiÃ¨re I.P.A.,American IPA,2,4.0,0.0
+1187,55461,14,Sledgehammer Imperial Red Ale,American Amber / Red Ale,1,4.0,
+1188,55601,395,Suicide By Hops,American IPA,1,5.0,
+1189,55609,5892,Sub Zero,American Pale Ale (APA),1,3.5,
+1190,55610,5892,Tripel Threat,Tripel,1,4.0,
+1191,55702,1199,Founders Empire Strikes Bitter,Extra Special / Strong Bitter (ESB),3,4.166666666666667,0.28867513459481275
+1192,55712,6513,SchorschbrÃ¤u Schorschbock 40%,Eisbock,1,3.0,
+1193,55729,15610,Red Ale,American Amber / Red Ale,1,4.5,
+1194,55890,7402,Summerbrau Lager,American Pale Lager,5,3.1,0.4183300132670377
+1195,55900,1199,Founders Nemesis 2009,Wheatwine,322,3.8260869565217392,0.6715418386170287
+1196,55904,20268,Highlands MÃ¤rzen,MÃ¤rzen / Oktoberfest,1,4.0,
+1197,55905,20268,Highlands Doppelbock,Doppelbock,2,3.5,0.0
+1198,55950,3965,Mission Nut Brown Ale,English Brown Ale,1,3.0,
+1199,55951,2724,Holiday Imperial,American Double / Imperial IPA,1,2.5,
+1200,55975,3282,Belgoo Luppo,Belgian IPA,5,3.7,0.4472135954999579
+1201,56000,1386,Red Ryeder Ale,Rye Beer,2,3.25,0.3535533905932738
+1202,56001,1386,Diamond Peak Dry Stout,Irish Dry Stout,1,4.5,
+1203,56004,1386,Delightful Dark Wheat,Dunkelweizen,2,3.25,0.3535533905932738
+1204,56071,1075,Hopportunity Knocks,American IPA,41,3.5609756097560976,0.6441576083461599
+1205,56103,16517,Rye P.A.,American Pale Ale (APA),4,4.375,0.25000000000000006
+1206,56115,14879,Hop Dam Triple IPA,American Double / Imperial IPA,84,3.8035714285714284,0.71984711036884
+1207,56259,22167,Sweet Child Of Vine,English India Pale Ale (IPA),26,3.576923076923077,0.6433087546786177
+1208,56404,2554,Divers Porter,English Porter,1,3.0,
+1209,56540,14,Red Barn Espresso Stout,American Stout,3,4.0,0.0
+1210,56687,2188,Holidays R Over Spiced Ale,Herbed / Spiced Beer,1,4.0,
+1211,56688,2188,Flying Aces Pale Ale,American Pale Ale (APA),1,4.0,
+1212,56725,2310,Bourbon Imperial Stout,American Double / Imperial Stout,2,3.75,0.3535533905932738
+1213,56733,16890,L&#257;&#269;pl&#275;sis DiÂalus (Lacplesis Grand Beer),Euro Strong Lager,1,2.5,
+1214,56735,2055,PraÂe&#269;ka Christmas,Euro Strong Lager,1,3.5,
+1215,56887,3268,Hemp Hop Rye Amber Ale,American Amber / Red Ale,82,3.6463414634146343,0.547089972051051
+1216,56978,21841,Battery Hill Bitter,English Bitter,8,4.125,0.23145502494313794
+1217,56979,21841,Solshine,Belgian Pale Ale,1,4.0,
+1218,56980,21841,Swannanoa Sunset,Keller Bier / Zwickel Bier,4,4.25,0.28867513459481275
+1219,56981,21841,Dubbelicious,Dubbel,9,3.611111111111111,0.41666666666666674
+1220,56982,21841,Meet Your Maker,English Strong Ale,5,3.7,0.4472135954999579
+1221,57024,1199,Founders South Island IPA,American IPA,1,4.0,
+1222,57110,14879,D.O.R.I.S. The Destroyer Double Imperial Stout,Russian Imperial Stout,181,4.102209944751381,0.5074944773760791
+1223,57172,22167,The Worthy Adversary,American Double / Imperial Stout,6,4.583333333333333,0.49159604012508745
+1224,57275,14,Oakquinox Lager,Bock,3,3.5,0.5
+1225,57479,10818,KÃ¤nguruh Bernsteintrunk,Altbier,1,4.0,
+1226,57640,1199,Founders Death,Wheatwine,8,4.125,0.23145502494313794
+1227,57668,21841,Toubab Brewe,Keller Bier / Zwickel Bier,10,4.15,0.47434164902525705
+1228,57671,394,Gemutlichkeit Ale,American Pale Ale (APA),4,4.25,0.28867513459481275
+1229,57686,12003,English Dark Mild,English Dark Mild Ale,1,4.5,
+1230,57757,1199,Founders El Diablo Del Noche,American Black Ale,7,3.7857142857142856,0.4879500364742665
+1231,57792,807,Waynflete Hedgerows,English Bitter,1,4.0,
+1232,57800,1463,Harboe Bear Beer Premium Strong Beer,Euro Strong Lager,1,3.0,
+1233,57853,14649,MB Pils,Keller Bier / Zwickel Bier,1,4.0,
+1234,57856,6513,SchorschbrÃ¤u Schorschbock 43%,Eisbock,2,3.75,0.3535533905932738
+1235,57894,14756,Rye IPA 75,American IPA,1,4.0,
+1236,57921,14484,Irish Red Ale,Irish Red Ale,1,3.0,
+1237,57959,14,Bad Knees Barrel Aged Old Ale,Old Ale,8,4.25,0.3779644730092275
+1238,57990,568,Piast Wroc&#322;awski,Euro Pale Lager,1,3.5,
+1239,58027,365,Pike Dry Wit,Witbier,17,3.5588235294117645,0.6344868236707243
+1240,58046,1075,Rauch Ãr Bock,Rauchbier,35,4.1571428571428575,0.4500233420650108
+1241,58053,395,Bourbon Barrel Stout (Clay Street Series),American Stout,90,3.0055555555555555,0.8159038706198084
+1242,58129,20658,Rude Parrot,American IPA,4,4.0,0.40824829046386296
+1243,58171,14,Three Rings Belgian-style Pale Ale,Belgian Pale Ale,3,4.0,0.5
+1244,58272,1199,Founders SZRP Of Doom,American Double / Imperial IPA,7,3.9285714285714284,0.6725927091345493
+1245,58519,568,Piast,Euro Pale Lager,2,3.5,0.7071067811865476
+1246,58540,765,Trafalgar Cherry Ale,Fruit / Vegetable Beer,7,1.8571428571428572,0.47559486560567094
+1247,58850,3268,Wee Heavy Scotch Ale,Scotch Ale / Wee Heavy,13,3.6538461538461537,0.554700196225229
+1248,58914,1199,Founders All Day IPA,American IPA,32,4.0,0.5236349380886428
+1249,58916,1199,Founders MPG IPA (Nitro),American IPA,3,4.666666666666667,0.28867513459481275
+1250,58920,1075,Vas Deferens Ale,Belgian Strong Dark Ale,28,3.5892857142857144,0.609395137708231
+1251,58921,2310,Bourbon Barrel Barleywine,American Barleywine,2,4.25,0.3535533905932738
+1252,58940,21841,Antebellum Ale,American Pale Ale (APA),9,3.2777777777777777,0.754615428178118
+1253,58941,21841,White Squirrel,American Blonde Ale,1,4.0,
+1254,59015,22167,Lonely Blonde,American Blonde Ale,12,3.5,0.564076074817766
+1255,59024,10324,Scarampola Nivura,Herbed / Spiced Beer,1,2.5,
+1256,59125,12224,Before-After,Doppelbock,16,2.90625,0.8797490172391971
+1257,59141,1386,One Hop Wonder #10 (Citra),American IPA,3,4.166666666666667,0.28867513459481275
+1258,59184,2916,Tom Wood's Harvest Bitter,English Bitter,2,3.5,0.7071067811865476
+1259,59239,163,Amstel Malt,Low Alcohol Beer,2,3.25,0.3535533905932738
+1260,59315,1,Master ZlatÃ½ 15Â°,Euro Strong Lager,4,3.25,0.2886751345948129
+1261,59364,16041,Birrificio Del Ducato L'Ultima Luna,English Barleywine,1,5.0,
+1262,59439,568,Okocim Premium Pils,German Pilsener,4,1.875,0.6291528696058958
+1263,59440,14,Double Happiness,American Wild Ale,2,4.5,0.0
+1264,59464,5246,Amberversary India Amber Ale,American IPA,2,4.25,0.3535533905932738
+1265,59514,23020,Viven Imperial IPA,American Double / Imperial IPA,10,4.05,0.6433419688539594
+1266,59548,14879,Turbo Shandy,Fruit / Vegetable Beer,26,3.5576923076923075,0.7392823963401685
+1267,59736,395,Bourbon Barrel Beer De Mars,BiÃ¨re de Garde,3,3.5,0.8660254037844386
+1268,59826,13831,Taps Rauchbier,Smoked Beer,2,3.5,0.7071067811865476
+1269,59827,13831,Taps Dunkel Bavarian Beer,Munich Dunkel Lager,1,4.0,
+1270,59849,14365,Olde Towne Alt,Altbier,1,4.0,
+1271,59966,1199,Founders Kaiser Curmudgeon,Old Ale,47,4.053191489361702,0.5826666821903329
+1272,59983,23082,White Buffalo Peace Ale,American Pale Ale (APA),1,3.5,
+1273,59986,23082,Rodeo Stout,Oatmeal Stout,1,3.5,
+1274,60122,1386,Summit Trail Pale Ale,American Pale Ale (APA),2,3.5,0.7071067811865476
+1275,60209,16050,Whiskey Weisse,Hefeweizen,1,4.0,
+1276,60224,5319,Dark Star,American Black Ale,1,4.0,
+1277,60511,1199,Founders Nemesis 2010,American Barleywine,348,3.9224137931034484,0.5754466312352354
+1278,60512,1199,Founders Special Agent IPA,American IPA,1,3.5,
+1279,60555,10541,CucapÃ¡ Runaway,American IPA,5,4.0,0.8660254037844387
+1280,60584,1199,Founders Looking Glass,American Double / Imperial IPA,17,3.8529411764705883,0.7859052479933756
+1281,60644,2310,Black Eye P.A.,American Black Ale,2,3.75,0.3535533905932738
+1282,60661,1199,Founders Bourbon Apple Cream Ale,Cream Ale,2,4.0,0.0
+1283,60686,3268,Sticke It To The Man,Altbier,20,3.375,0.7232055833505944
+1284,60704,21841,Herkulean IPA,American IPA,6,4.0,0.31622776601683794
+1285,60786,13831,Taps Witt,Witbier,1,3.5,
+1286,60787,13831,Taps Sinister Sam's Insane IPA,American IPA,6,4.0,0.447213595499958
+1287,60874,14879,Cafe BORIS,Russian Imperial Stout,3,4.0,0.5
+1288,60875,2098,Cascadian Dark Ale,American Black Ale,1,4.0,
+1289,60951,1075,Hibiscus Ginger Beer,Fruit / Vegetable Beer,1,2.5,
+1290,60990,1075,Mogli,American Porter,7,4.571428571428571,0.3450327796711771
+1291,61003,3282,La Binchoise Triple,Tripel,1,2.5,
+1292,61053,14756,Bourbon Barrel Stout (Clay Street Series),American Stout,4,3.625,0.47871355387816905
+1293,61060,1482,Conan The Destroyer Double IPA,American Double / Imperial IPA,1,4.0,
+1294,61105,395,Bourbon Barrel Bearded Pat's Barleywine,American Barleywine,2,4.0,0.0
+1295,61140,13905,Ãli,American Pale Lager,2,1.75,0.3535533905932738
+1296,61176,16386,Hop Whoopin,American IPA,8,4.0,0.4629100498862758
+1297,61340,394,Bourbon Scarlett Lady,Extra Special / Strong Bitter (ESB),1,3.5,
+1298,61417,23246,Yakima Monster,American Pale Ale (APA),1,4.0,
+1299,61425,23246,Motueka Monster,American Pale Ale (APA),1,3.5,
+1300,61427,1075,Caldera Rose Petal (Kettle Series),American Blonde Ale,7,2.9285714285714284,1.0578504710249077
+1301,61474,15607,Asmara Lager Beer,American Adjunct Lager,1,4.0,
+1302,61477,2804,Varnensko,Euro Pale Lager,1,2.0,
+1303,61478,1454,Lawn Mower Pale Ale,English Pale Ale,1,4.5,
+1304,61638,2310,Blister In The Sun Rye,Rye Beer,1,3.5,
+1305,61681,394,Stoudts Abbey Triple Blended With Double IPA,Belgian IPA,1,3.0,
+1306,61696,4103,Breznak Bernstein,MÃ¤rzen / Oktoberfest,1,2.0,
+1307,61745,1386,Woodrow's Imperial Milk Stout,Milk / Sweet Stout,2,4.5,0.0
+1308,61799,16859,Massive IPA,American IPA,7,4.0,0.28867513459481287
+1309,61800,16859,Blonde Ambition,American Blonde Ale,9,4.055555555555555,0.39086797998528594
+1310,61801,16859,Snaggletooth Stout,American Stout,6,4.0,0.0
+1311,61864,14756,Mephistopheles' Metamorphosis,Tripel,1,3.5,
+1312,61936,5500,Lost Sailor IPA,American IPA,3,4.5,0.5
+1313,61937,5500,Angry Orphan Oatmeal Stout,Oatmeal Stout,1,4.0,
+1314,61938,5500,Oktoberfest,MÃ¤rzen / Oktoberfest,1,4.5,
+1315,61954,5500,Black Monday Stout,American Stout,2,3.75,0.3535533905932738
+1316,62056,453,Eliksir,Doppelbock,1,2.0,
+1317,62088,3268,Sweet Nectar,American IPA,2,4.0,0.7071067811865476
+1318,62101,23020,Viven Blond,Belgian Pale Ale,3,3.8333333333333335,0.28867513459481287
+1319,62198,765,Trafalgar Hop Nouveau 2010,American Pale Ale (APA),3,3.8333333333333335,0.28867513459481287
+1320,62233,394,Brewers Reserve Adamstown Brown,English Brown Ale,5,3.6,0.5477225575051661
+1321,62237,20638,Duff Extra,American Adjunct Lager,3,2.6666666666666665,0.7637626158259734
+1322,62342,568,Okocim Mocne Premium Malt Liquor,Euro Strong Lager,5,3.4,0.41833001326703784
+1323,62419,12224,Zhiguly Grande 12,Doppelbock,5,3.0,0.6123724356957946
+1324,62442,850,Apparition Ale,English Bitter,6,3.8333333333333335,0.5163977794943222
+1325,62529,14,Flower Child IPA,American IPA,4,3.875,0.24999999999999994
+1326,62631,23982,Agent Provocateur,Belgian IPA,8,4.0,0.37796447300922736
+1327,62643,1386,Mighty Tacoma Ale,California Common / Steam Beer,2,3.75,0.3535533905932738
+1328,62689,23020,Kapel Van Viven Bruin,Flanders Oud Bruin,1,2.5,
+1329,62695,10324,IPA Italian Pale Ale,American IPA,1,3.0,
+1330,62717,21841,Germinator Doppelbock,Doppelbock,6,4.166666666666667,0.5163977794943222
+1331,62726,5246,Dillingham Dunkel,Dunkelweizen,1,3.5,
+1332,62737,13831,Taps Belgian IPA,Belgian IPA,5,4.1,0.22360679774997907
+1333,62765,1199,Founders Misty Mountain Hop Brown,American Brown Ale,10,3.95,0.4972144630058766
+1334,62774,568,Pszeniczne,Hefeweizen,1,3.5,
+1335,62782,16859,Splashing Pumpkin,Pumpkin Ale,3,3.6666666666666665,0.2886751345948129
+1336,62799,7402,JalapeÃ±o Cream Ale,Chile Beer,2,3.75,0.3535533905932738
+1337,62820,3268,O'Fallon Midnight Harvest,American Black Ale,1,4.5,
+1338,62829,12003,Robust Porter,American Porter,5,3.6,0.8944271909999159
+1339,62868,1199,Founders Hop Spit Punk Rock IPA,American IPA,2,4.5,0.0
+1340,62884,23246,Return To Magenta,Belgian Pale Ale,1,4.0,
+1341,62921,14879,Imperial American Porter (2010 Beer Week Collaboration With Rocky River),American Porter,7,4.071428571428571,0.18898223650461365
+1342,63006,18012,Becky's Black Cat Porter,American Porter,1,4.0,
+1343,63020,1454,Bigger Boy's Beer,English Strong Ale,3,4.0,1.3228756555322954
+1344,63066,14,Bumper Crop IPA,American IPA,2,4.0,0.7071067811865476
+1345,63117,2647,Britt Blonde-Melen,Belgian Pale Ale,1,3.5,
+1346,63219,23020,Viven Ale,Belgian Pale Ale,1,3.0,
+1347,63220,23020,Viven Porter,American Porter,2,4.25,0.3535533905932738
+1348,63460,1454,Limping Mallard,English Strong Ale,1,5.0,
+1349,63558,3403,Marks & Spencer Scottish Ale,Scottish Ale,1,4.0,
+1350,63654,2446,Oakey Dokey,Flanders Oud Bruin,2,3.5,0.0
+1351,63735,21865,Biere Blanche,Witbier,1,5.0,
+1352,63736,21865,Biere Blonde,American Blonde Ale,1,4.5,
+1353,63738,21865,Tripel,Tripel,1,4.0,
+1354,63753,22167,The Libertine,American Amber / Red Ale,3,4.166666666666667,0.28867513459481275
+1355,63773,13905,Harvest 2010,American Amber / Red Ale,2,2.75,0.3535533905932738
+1356,63863,9020,Fall Ale,American Amber / Red Ale,9,3.7222222222222223,0.5068968775248516
+1357,63894,10541,CucapÃ¡ Lowrider Ale,Rye Beer,8,3.5,0.37796447300922736
+1358,63986,765,Trafalgar Bock Lager,Bock,2,1.75,0.3535533905932738
+1359,63995,21841,Brewer's Reserve Series: Dunkelweiss,Dunkelweizen,1,4.0,
+1360,64029,5500,Pirate's Porter,American Porter,2,4.5,0.0
+1361,64060,1386,Hoppy Holidays,American Double / Imperial IPA,1,3.5,
+1362,64082,1386,"Mighty Tacoma Ale, V2",California Common / Steam Beer,1,4.0,
+1363,64087,13905,4e Anniversaire,Belgian Strong Pale Ale,2,3.5,0.7071067811865476
+1364,64096,14879,Barrel Aged Frosted Frog Christmas Ale,Winter Warmer,13,3.423076923076923,0.8125616347431192
+1365,64233,14484,Scotch Strong Ale,Scotch Ale / Wee Heavy,3,3.5,0.5
+1366,64256,1199,Founders Yukon Cornelious Spiced Ale,Herbed / Spiced Beer,2,4.25,0.3535533905932738
+1367,64262,2055,Bernard Light 10Â° - Bernard Sv&#283;tlÃ© Pivo 10Â°,Czech Pilsener,2,4.75,0.3535533905932738
+1368,64327,2055,Bernard Dark,Schwarzbier,1,4.0,
+1369,64330,9370,Bufadora,Maibock / Helles Bock,4,2.75,1.1902380714238083
+1370,64348,16859,Sleigh Ryed,Rye Beer,2,3.75,0.3535533905932738
+1371,64379,1454,Apple Chucker,Fruit / Vegetable Beer,1,4.5,
+1372,64458,395,Heine The Elder Double Espresso Stout,Oatmeal Stout,2,4.25,1.0606601717798212
+1373,64487,1386,Bigwood Oak Aged Stout,American Double / Imperial Stout,1,5.0,
+1374,64538,15636,Rising River Rye,Rye Beer,1,4.0,
+1375,64540,23739,Starry Night Stout,English Stout,1,2.0,
+1376,64541,23739,Funky Pelican Pilsner,American Pale Lager,1,4.0,
+1377,64542,23739,Whole Lotta Love Belgian,American Pale Wheat Ale,1,3.0,
+1378,64543,23739,Loggerhead Red,American Amber / Red Ale,1,2.5,
+1379,64544,23739,The Rock IPA,English India Pale Ale (IPA),1,3.5,
+1380,64550,1199,Founders Sumatra Mountain Brown,American Strong Ale,5,4.1,0.22360679774997907
+1381,64608,13831,Taps Abbey Dubbel,Dubbel,3,4.0,0.0
+1382,64609,13831,Taps Baltic Shipwreck Russian Imperial Stout,Russian Imperial Stout,4,4.0,0.40824829046386296
+1383,64708,5500,Black Forest Grateful Red,American Amber / Red Ale,2,3.75,0.3535533905932738
+1384,64727,7402,Winterfest,American Amber / Red Ale,7,3.642857142857143,0.5563486402641868
+1385,64761,13905,IPA Anglaise,English India Pale Ale (IPA),2,3.5,0.0
+1386,64762,13905,Pale Ale AmÃ©ricaine,American IPA,5,3.6,0.4183300132670377
+1387,64764,13905,IPA Belge,Belgian IPA,7,3.7857142857142856,0.26726124191242434
+1388,64800,2724,Holiday XXII Imperial Blue,American Strong Ale,1,3.0,
+1389,64802,13905,La BiÃ¨re De L'Ours,Milk / Sweet Stout,2,3.75,0.3535533905932738
+1390,64816,7314,ArnstÃ¤dter UrBock,Maibock / Helles Bock,1,4.0,
+1391,64840,24447,Banyan Brown Ale,American Brown Ale,3,4.166666666666667,0.28867513459481275
+1392,64841,24162,Scotch Ale,Scottish Ale,1,4.5,
+1393,64842,24162,Copper Ale,American Amber / Red Ale,1,4.5,
+1394,64846,24447,DeLuna Extra Pale Ale,American Pale Ale (APA),5,4.0,0.35355339059327373
+1395,64847,24447,Lighthouse Porter,American Porter,2,4.0,0.0
+1396,64848,24447,Li'l Napoleon,American IPA,5,4.1,0.4183300132670378
+1397,64849,24447,Pensacola Bay's Extra Special,Extra Special / Strong Bitter (ESB),1,4.0,
+1398,64850,24447,Rip Tide Amber,American Amber / Red Ale,3,3.3333333333333335,0.28867513459481287
+1399,64851,24447,Sawgrass Wheat,American Pale Wheat Ale,1,3.5,
+1400,64879,2055,Bernard JantarovÃ½ LeÂÃ¡k,Munich Dunkel Lager,1,3.0,
+1401,64883,1075,Cauldron DIPA,American Double / Imperial IPA,1,4.0,
+1402,64924,3282,Belgoo Arbo,Tripel,1,3.5,
+1403,65103,1497,KÃ¶lsch,KÃ¶lsch,1,3.0,
+1404,65197,21138,IPA,American IPA,1,4.0,
+1405,65208,21138,Hefeweizen,Hefeweizen,1,4.0,
+1406,65209,21138,Irish Stout,Irish Dry Stout,1,4.0,
+1407,65211,21138,Brown Ale,American Brown Ale,1,3.5,
+1408,65282,16859,Hoppocratic Oath,American Double / Imperial IPA,2,3.75,0.3535533905932738
+1409,65339,395,Bourbon Barrel Heine Brothers Coffee Stout,American Stout,4,4.25,0.6454972243679028
+1410,65382,12224,Cocka-Too,Euro Strong Lager,1,1.0,
+1411,65400,24445,Oscar's Pardon Belgian Pale Ale,Belgian Pale Ale,1,4.0,
+1412,65401,24445,Mother Jones Trappist-style Dubbel,Dubbel,4,4.0,0.5773502691896257
+1413,65402,24445,First Chance American IPA,American IPA,1,4.5,
+1414,65403,24445,Ombibulous Double IPA,American Double / Imperial IPA,3,4.333333333333333,0.5773502691896258
+1415,65447,21841,Burning Barrel,American Porter,14,3.607142857142857,0.6844023622158192
+1416,65458,24445,Speakerswagon Pilsner,Czech Pilsener,5,3.6,0.6519202405202649
+1417,65483,16859,Robert Moses Pale Ale,American Pale Ale (APA),1,3.5,
+1418,65484,16859,Marauder (Born From Wood Series),Scotch Ale / Wee Heavy,1,4.0,
+1419,65486,14,Dubble Overtime,Belgian Strong Dark Ale,1,4.0,
+1420,65507,1303,Soggy Bottom,English Bitter,1,3.5,
+1421,65526,5500,The Lost Fugawi Ale,Quadrupel (Quad),1,4.5,
+1422,65528,24445,Mathias Imperial IPA,American Double / Imperial IPA,11,4.2272727272727275,0.41009976613236243
+1423,65556,7402,Hops Bandit,American Pale Ale (APA),1,5.0,
+1424,65589,1199,Founders Old World Brown Porter,English Porter,2,3.25,0.3535533905932738
+1425,65636,1454,Amarillo Single Hop Pale Ale,American Pale Ale (APA),1,5.0,
+1426,65639,20658,Santa's Smokin' Winter Warmer,Winter Warmer,1,4.0,
+1427,65666,394,Imperial Schwarzbier,Schwarzbier,9,3.611111111111111,0.8207381501496754
+1428,65682,3268,Black Hemp,American Black Ale,21,3.642857142857143,0.4780914437337578
+1429,65689,14,"2009 Arquebus, Ch. Boswell Barrel Finish With Brett",American Barleywine,1,4.5,
+1430,65764,395,Bourbon Barrel Belgian Style Dubbel,Dubbel,4,3.5,0.0
+1431,65767,4103,Spezial Doppel-Doppel Bock,Doppelbock,1,2.0,
+1432,65796,1199,Founders Bangin' Berry Cream,Fruit / Vegetable Beer,1,4.5,
+1433,65833,24757,Benny Brew Hopenstein,American IPA,4,4.375,0.47871355387816894
+1434,65932,1199,Founders Foreign Spy Rye,Rye Beer,3,4.166666666666667,0.28867513459481275
+1435,66024,12907,Zahre Rossa Vienna,Vienna Lager,1,4.0,
+1436,66029,24486,Mornington Peninsula Pale,American Pale Ale (APA),1,4.5,
+1437,66030,24486,Mornington Peninsula Porter,American Porter,3,3.5,0.0
+1438,66040,13905,La Prohibition,Scottish Ale,1,3.5,
+1439,66041,394,2X Chocolate Porter,American Porter,6,3.5833333333333335,0.5845225972250062
+1440,66057,24486,Mornington Peninsula Witbier,Witbier,3,3.8333333333333335,0.5773502691896257
+1441,66229,12003,1871 Lager,American Pale Lager,2,4.25,0.3535533905932738
+1442,66290,14,Rose De Cambrinus,American Wild Ale,3,4.5,0.5
+1443,66308,163,Amstel Sterk (Strong),Euro Strong Lager,1,3.5,
+1444,66349,24445,Agitator Double IPA,American Double / Imperial IPA,3,3.1666666666666665,0.2886751345948129
+1445,66423,18012,Frankenlou's IPA,American IPA,7,3.0714285714285716,0.786795792469443
+1446,66430,1454,Ackerman's Imperial Double Stout (Winterfest Replicale 2011),American Double / Imperial Stout,1,5.0,
+1447,66433,765,Patrick's Pick Extra Special Bitter,Extra Special / Strong Bitter (ESB),5,2.9,0.41833001326703784
+1448,66478,9020,Black Saison,Saison / Farmhouse Ale,2,4.0,0.0
+1449,66483,24445,I'm So Lonely Belgian Single,Belgian Pale Ale,2,3.25,1.7677669529663689
+1450,66484,24445,Hard Times American IPA,American IPA,1,4.0,
+1451,66527,24748,General Sherman IPA,American IPA,1,3.5,
+1452,66528,24748,Half Dome California Wheat,Witbier,1,4.5,
+1453,66592,24445,Beaubien Saison,Saison / Farmhouse Ale,1,4.5,
+1454,66593,24445,Midnight Hour Robust Porter,American Porter,1,3.0,
+1455,66603,21516,Kirkland Signature Belgian White,Witbier,20,2.95,0.6261830907633124
+1456,66619,21516,Kirkland Signature India Pale Ale,American IPA,19,3.210526315789474,0.8047737686539307
+1457,66763,7402,Hop Rising,American Double / Imperial IPA,3,3.6666666666666665,0.5773502691896258
+1458,66769,13228,Enrico's Cure,English Barleywine,1,3.5,
+1459,66818,23246,Pot Kettle Black,American Black Ale,10,3.65,0.6687467549246293
+1460,66845,20658,Wheelchair,American Barleywine,1,4.0,
+1461,66847,24445,Yes Sir! Senator! IPA,American IPA,1,4.5,
+1462,66848,24445,Lucy Dry-Hopped Belgian Trippel,Tripel,2,3.25,0.3535533905932738
+1463,66849,24445,Six Point Star Golden American Lager,American Pale Lager,2,4.75,0.3535533905932738
+1464,66855,1454,Black IPA,American Black Ale,2,4.25,0.3535533905932738
+1465,66857,1454,Jack Daniels Barrel Aged Porter,American Porter,2,4.25,1.0606601717798212
+1466,66889,1454,Ackerman's Imperial Double Stout (Indiana Replicale 2011),American Double / Imperial Stout,1,4.0,
+1467,66932,395,True Blue,Witbier,1,4.0,
+1468,67170,14,Mind Left Body,American IPA,5,4.1,0.7416198487095664
+1469,67171,14,Project Venus,Dubbel,2,4.5,0.0
+1470,67188,24486,Mornington Peninsula Saison,Saison / Farmhouse Ale,3,4.166666666666667,0.28867513459481275
+1471,67236,24445,Black Wobbly Robust Porter,American Porter,4,4.25,0.28867513459481275
+1472,67360,14,Resolution #9,Flanders Oud Bruin,3,4.0,0.8660254037844386
+1473,67398,24445,Peace Frog,American IPA,3,3.8333333333333335,0.28867513459481287
+1474,67399,24445,Anarchy,American Double / Imperial IPA,2,4.0,0.0
+1475,67405,24445,Dynamite & Roses,Belgian IPA,2,3.75,1.0606601717798212
+1476,67406,24445,Devil In The Wit City,Witbier,1,3.0,
+1477,67407,24445,Ti Jean,American Pale Ale (APA),2,3.75,0.3535533905932738
+1478,67455,13831,Taps Big E Chokeslam IPA,American IPA,4,3.625,0.25
+1479,67505,9020,Gerst Amber,American Amber / Red Ale,2,4.0,0.0
+1480,67507,24486,Mornington Peninsula Brown Ale,English Brown Ale,3,3.5,0.5
+1481,67508,24486,Mornington Peninsula IPA,American IPA,3,4.166666666666667,0.28867513459481275
+1482,67512,14,Tall Tale Pale Ale (dry-hopped With Glacier),American Pale Ale (APA),1,4.5,
+1483,67533,1199,Founders Session Noir,American Black Ale,9,4.222222222222222,0.36324157862838957
+1484,67578,395,Bourbon Barrel Munich-Style Helles,Munich Helles Lager,1,2.5,
+1485,67820,971,Spring Bock,Bock,1,3.0,
+1486,67946,1199,Founders Rye Stout,American Stout,1,4.0,
+1487,67962,1,Master TmavÃ½ 18Â°,Baltic Porter,4,4.125,0.25
+1488,67963,24445,The Saison Also Rises,Saison / Farmhouse Ale,2,3.75,0.3535533905932738
+1489,68088,5500,McGale's Pale Ale,English Pale Ale,1,4.0,
+1490,68227,807,Finchley's IPA,English India Pale Ale (IPA),2,3.5,0.0
+1491,68239,14484,Arch City Pale,American Pale Ale (APA),2,3.75,0.3535533905932738
+1492,68369,13831,Taps Saphir Ale,American Pale Ale (APA),1,4.0,
+1493,68372,1254,Balashi Chill,American Adjunct Lager,2,2.5,0.0
+1494,68385,24445,Emma Belgian Abbey Trippel,Belgian Strong Pale Ale,2,3.75,0.3535533905932738
+1495,68388,24445,Bronzeville American IPA,American IPA,1,4.0,
+1496,68390,24445,Comeback And Guzzle Spiced Belgian Dark Ale,Belgian Strong Dark Ale,2,3.75,0.3535533905932738
+1497,68391,24445,The Living Wage American Belgo Pale Ale,Belgian Pale Ale,1,3.0,
+1498,68401,1199,Founders Dirty Darkness,Scotch Ale / Wee Heavy,3,4.0,0.0
+1499,68411,24486,Mornington Peninsula Imperial IPA,American Double / Imperial IPA,2,3.75,0.3535533905932738
+1500,68430,1199,Founders Syrup Del Noche,American Black Ale,5,4.6,0.4183300132670379
+1501,68432,1199,Founders Bourbon Del Noche,American Black Ale,4,4.125,0.25
+1502,68447,20658,Cascadian Dark Ale,American Black Ale,1,4.0,
+1503,68579,1199,Founders Apricot Swarm,Fruit / Vegetable Beer,2,4.25,0.3535533905932738
+1504,68668,2724,Luck O' The Irish,Irish Dry Stout,1,3.5,
+1505,68731,24445,I'm Still Lonely Belgian Single,Belgian Pale Ale,2,3.75,0.3535533905932738
+1506,68737,24445,The Defender Double American Stout,American Double / Imperial Stout,4,3.875,0.24999999999999994
+1507,68738,24445,The Alarm Double American IPA,American Double / Imperial IPA,2,4.0,0.0
+1508,68867,807,Willy's Crown Jewels,English Bitter,1,3.0,
+1509,69021,14,Kissmeyer Citra Tripel,Tripel,4,4.25,0.28867513459481275
+1510,69060,395,Bourbon Barrel English Style Barleywine,English Barleywine,3,3.3333333333333335,0.5773502691896257
+1511,69068,1,Master PolotmavÃ½ 13Â°,Vienna Lager,3,3.6666666666666665,0.2886751345948129
+1512,69069,807,St George's Glory,English Bitter,1,4.5,
+1513,69078,395,Bourbon Barrel Smoked Bock,Smoked Beer,2,4.0,0.7071067811865476
+1514,69087,2724,Yellowjacket Ale,American Blonde Ale,1,3.0,
+1515,69141,24892,Burocracy India Pale Ale,English India Pale Ale (IPA),1,4.0,
+1516,69146,14,Dubbel Entendre,Dubbel,3,4.166666666666667,0.28867513459481275
+1517,69174,395,Saison Farmhouse Ale,Saison / Farmhouse Ale,8,3.25,0.6546536707079772
+1518,69202,1417,Monty Python's Holy Grail Ale Black Knight's Reserve,English Brown Ale,6,3.6666666666666665,0.25819888974716104
+1519,69242,1303,Kiss Me Kate,English Bitter,1,2.5,
+1520,69250,395,Chocolate Wheatwine,Wheatwine,5,4.0,0.35355339059327373
+1521,69255,13892,Red Tail Pale Ale,English Pale Mild Ale,1,3.5,
+1522,69362,14484,Double Irish Red,Irish Red Ale,1,4.0,
+1523,69373,14484,Instigator Doppelbock,Doppelbock,1,3.0,
+1524,69383,24445,Fear American IPA,American IPA,2,4.0,0.0
+1525,69384,24445,Loathing Belgian IPA,Belgian IPA,1,4.0,
+1526,69386,24445,White Chapel Wit,Witbier,1,3.0,
+1527,69461,14879,BORIS Royale,Russian Imperial Stout,32,4.140625,0.5117076881037809
+1528,69510,395,Bourbon Barrel Quad,Quadrupel (Quad),1,3.0,
+1529,69515,2098,Pale Ale,English Pale Ale,3,3.8333333333333335,0.28867513459481287
+1530,69609,5500,Mr. Mojo Weizen,American Pale Wheat Ale,1,3.0,
+1531,69677,23246,Rex Attitude,Smoked Beer,6,4.0,0.6324555320336759
+1532,69826,24517,Bluffdiver IPA,American IPA,1,4.0,
+1533,69828,24517,Bierre De Garde,BiÃ¨re de Garde,1,4.0,
+1534,69865,394,Brotherly Suds (BS2),American Pale Lager,7,4.214285714285714,0.6362090102803518
+1535,69866,23246,Hud-a-wa' Strong,American Amber / Red Ale,4,3.75,0.2886751345948129
+1536,69894,1199,Founders Cashew Mountain Brown,American Brown Ale,41,4.365853658536586,0.4876524151983469
+1537,69968,14,Collaborative Groove #1,Scottish Gruit / Ancient Herbed Ale,1,4.0,
+1538,70009,9020,Hap And Harry's Lynchburg Lager,American Amber / Red Lager,1,3.5,
+1539,70026,395,2 Brewers 1 Pint,American Brown Ale,1,4.0,
+1540,70135,2554,Chilli-Out,Chile Beer,1,3.5,
+1541,70143,1289,Killer Bee,American Pale Ale (APA),2,4.75,0.3535533905932738
+1542,70391,14,Le Saisonniere,Saison / Farmhouse Ale,2,3.75,0.3535533905932738
+1543,70395,7345,Schinderhannes Bock,Maibock / Helles Bock,1,4.0,
+1544,70437,24445,A.R. Double IPA,American Double / Imperial IPA,2,4.0,0.7071067811865476
+1545,70439,24445,Blacksox Porter,American Porter,3,3.3333333333333335,0.5773502691896257
+1546,70440,24445,Back Of The Yards American Belgo IPA,Belgian IPA,1,3.5,
+1547,70562,16859,Conscious Sedaison,Saison / Farmhouse Ale,2,3.5,0.7071067811865476
+1548,70611,3512,Ter Dolen Donker,Belgian Dark Ale,2,4.25,0.3535533905932738
+1549,70635,5752,Aldersbacher Kloster Weisse Hell,Hefeweizen,1,4.0,
+1550,70647,1463,Dansk Pilsner,Euro Pale Lager,1,2.0,
+1551,70673,1303,Tizzie Wizzie,English Bitter,1,3.5,
+1552,70703,24445,A Mash Made In Heaven IV,Witbier,1,3.0,
+1553,70732,25953,Raudonyu Dobilu Alus,Munich Dunkel Lager,1,2.5,
+1554,70770,1199,Founders Mild Mountain Brown,American Brown Ale,1,4.0,
+1555,70795,1199,Founders 10K IPA,American Double / Imperial IPA,7,4.214285714285714,0.2672612419124247
+1556,70798,5514,Zagloba Premium,Euro Pale Lager,1,3.5,
+1557,70931,807,Mr. George's Ruby Porter,English Porter,4,4.125,0.25
+1558,71004,6513,Schorsch Weizen 16%,Weizenbock,1,4.0,
+1559,71157,577,Skyelight,English Pale Ale,2,3.5,0.0
+1560,71164,14,Mother Hubbard,Saison / Farmhouse Ale,1,4.0,
+1561,71188,1417,Imperial Russian Stout,Russian Imperial Stout,2,3.0,0.0
+1562,71189,4103,DaÄicky 12 SvÃªtly LeÅ¾Ã¡k (KutnÃ¡ Hora Lager),Euro Pale Lager,1,4.0,
+1563,71212,14,Valley Girl!,American Amber / Red Ale,2,2.75,1.0606601717798212
+1564,71230,24445,Banana Hammock Hefeweizen,Hefeweizen,1,4.0,
+1565,71231,24445,Rebellion American IPA,American IPA,1,4.0,
+1566,71251,26384,Nera Di Fichi - Imperial,American Double / Imperial Stout,1,4.0,
+1567,71252,26384,Ale - Serie Classica,English Strong Ale,1,4.0,
+1568,71318,23468,Panther India Pale Ale,American IPA,1,3.5,
+1569,71342,26409,I-90 IPA,American IPA,1,3.5,
+1570,71475,13905,Vin D'orge,American Barleywine,2,3.75,0.3535533905932738
+1571,71513,850,Apparition Ale Cask With Sovereign Hops,English Bitter,1,4.0,
+1572,71559,807,Miss America,English Bitter,2,3.25,0.3535533905932738
+1573,71669,850,Slow-Vannah Pale Ale Cask With Citra Hops,American Pale Ale (APA),1,4.0,
+1574,71686,25484,Brew Eyed Blond,English Pale Ale,2,4.0,0.0
+1575,71703,25949,B29,German Pilsener,1,3.0,
+1576,71757,9020,Black Lager,Schwarzbier,3,4.166666666666667,0.7637626158259733
+1577,71766,16890,Alfie,Saison / Farmhouse Ale,1,3.0,
+1578,71802,24445,Indignant Bourbon Imperial Stout,American Double / Imperial Stout,13,4.1923076923076925,0.38397382389415247
+1579,71808,24445,Angry Birds Belgian Rye IPA,Belgian IPA,3,3.8333333333333335,0.28867513459481287
+1580,71809,24445,Pink Sock Monkey Raspberry Wheat,Fruit / Vegetable Beer,1,3.5,
+1581,71810,24445,MoJo Belgian Style Abbey Dubbel,Dubbel,1,3.5,
+1582,71811,24445,Barneyâs American IPA,American IPA,1,4.0,
+1583,71868,16041,BIA IPA,American IPA,1,4.0,
+1584,71917,1199,Founders Mister E Froot,Fruit / Vegetable Beer,9,3.888888888888889,0.5464532103585
+1585,72007,14,Saisonnaire,Saison / Farmhouse Ale,1,5.0,
+1586,72008,14,Able I.P.A.,Belgian IPA,1,4.0,
+1587,72064,2554,Ginger Beer,Herbed / Spiced Beer,2,2.75,0.3535533905932738
+1588,72118,16386,Bourbon Barrel Coffee Night Train,American Porter,1,5.0,
+1589,72130,11710,Prominent,Belgian Strong Pale Ale,1,2.5,
+1590,72146,23246,Her Majesty 2011,Saison / Farmhouse Ale,2,4.25,0.3535533905932738
+1591,72200,850,Apparition Ale Cask With Fuggles Hops,English Bitter,1,4.0,
+1592,72317,1199,Founders Berserker 37,American Black Ale,7,4.071428571428571,0.18898223650461365
+1593,72329,15636,Hop Rye Pale,Rye Beer,1,4.0,
+1594,72330,1075,Hop Hash,American Pale Ale (APA),1,4.5,
+1595,72354,24445,Antipathy Double IPA,American Double / Imperial IPA,2,3.75,0.3535533905932738
+1596,72355,24445,ReplicAle (2011),Belgian Pale Ale,2,4.0,0.0
+1597,72392,24892,Spaceman,American IPA,2,3.75,0.3535533905932738
+1598,72394,14,Nom De Plum,Lambic - Fruit,1,3.5,
+1599,72425,26612,Old Orange Street Fair,KÃ¶lsch,3,3.5,0.5
+1600,72426,26612,Old Orange Cannonball,American IPA,1,4.5,
+1601,72427,26612,Old Orange Old Dummy,American Strong Ale,2,3.75,1.0606601717798212
+1602,72600,24892,24 K,American Blonde Ale,1,4.0,
+1603,72706,1199,Founders Gruit,Scottish Gruit / Ancient Herbed Ale,3,3.5,0.5
+1604,72732,5514,Zorg,Euro Strong Lager,2,1.75,0.3535533905932738
+1605,72767,9020,Onward Stout Aged On Cherries,Irish Dry Stout,2,2.5,0.0
+1606,72820,24445,BUK Black Rye Bock,Euro Dark Lager,2,4.0,0.0
+1607,72821,24445,Mathias III,American IPA,2,4.5,0.0
+1608,72822,24445,Mathias Jr.,American Double / Imperial IPA,3,3.8333333333333335,0.28867513459481287
+1609,72823,24445,Clare's Right Hook,American Barleywine,4,3.75,0.2886751345948129
+1610,72827,14879,Barrel Aged Naked Evil,English Barleywine,32,4.328125,0.4327216008832568
+1611,72989,577,Walker's Ale,American Amber / Red Ale,1,3.5,
+1612,73020,577,Tarasgeir,Smoked Beer,1,4.0,
+1613,73052,2446,Momotaro,American Wild Ale,2,4.0,0.0
+1614,73062,1199,Founders Grand Rapids Stout,American Stout,2,4.0,0.0
+1615,73129,394,Brrright Lager,Munich Helles Lager,1,4.0,
+1616,73234,26816,KB Grand Cru 2008,American Wild Ale,1,3.5,
+1617,73235,26816,KB Grand Cru 2010 - Oak Aged Cassis,American Wild Ale,1,4.0,
+1618,73237,26816,KB Grand Cru 2009,American Wild Ale,1,3.5,
+1619,73239,26816,KB Grand Cru 2011,American Wild Ale,1,4.0,
+1620,73241,26816,KB Grand Cru 2010 - Unblended,Lambic - Unblended,1,3.0,
+1621,73242,26816,Lakrids #1 (Piratos),American Porter,1,3.5,
+1622,73252,10541,Oveja Negra,Irish Dry Stout,1,4.0,
+1623,73290,1454,Bjava Porter,American Porter,1,4.5,
+1624,73291,1454,Hefe Weizen,Hefeweizen,1,4.0,
+1625,73327,1199,Founders Galaxy Oat IPA,American IPA,2,4.0,0.0
+1626,73331,10541,Green Card Barleywine,American Barleywine,1,4.0,
+1627,73339,24477,Midnight Lager,Schwarzbier,2,1.25,0.3535533905932738
+1628,73340,24477,Helheim Black India Pale Ale,American Black Ale,3,3.0,1.0
+1629,73368,6513,SchorschbrÃ¤u Schorschbock 57%,Eisbock,1,4.0,
+1630,73369,2554,Pearlers Pale Ale,English Pale Ale,2,3.0,0.0
+1631,73411,263,Aecht Schlenkerla Krausen,Munich Helles Lager,10,3.95,0.724568837309472
+1632,73498,7402,Pumpkin,Pumpkin Ale,3,2.8333333333333335,0.28867513459481287
+1633,73570,24445,7GA IPA,American IPA,2,3.5,0.0
+1634,73571,24445,Oktoberfest Marzen Bier,MÃ¤rzen / Oktoberfest,2,4.0,0.0
+1635,73572,24445,Chicago Amnesia Apricot Wheat,American Pale Wheat Ale,1,3.5,
+1636,73635,2098,Weedwacker,American Blonde Ale,1,3.5,
+1637,73646,20658,Hop Prophet,American IPA,1,3.0,
+1638,73752,13614,Neder FaÃbier,Dortmunder / Export Lager,1,4.0,
+1639,73761,765,Trafalgar Hop Nouveau 2011,American Pale Ale (APA),3,3.1666666666666665,0.2886751345948129
+1640,73769,22430,Oatmeal Stout,Oatmeal Stout,1,4.0,
+1641,73843,14,Charles River Porter With Cascade,American Porter,1,4.0,
+1642,73941,14365,Alley Way Amber,American Amber / Red Ale,1,4.0,
+1643,74027,850,Special Reserve Oud Bruin,Flanders Oud Bruin,2,3.5,0.0
+1644,74120,20268,Kirkwood Station Black Rye IPA,American IPA,1,3.0,
+1645,74145,26946,Big Hurt Beer,American Malt Liquor,6,3.0833333333333335,0.3763863263545405
+1646,74159,394,Rauchbier,Rauchbier,4,3.25,0.5
+1647,74360,24445,Cease And Desist Smoked Porter,American Porter,4,3.875,0.24999999999999994
+1648,74435,3351,AnimÃ©e Clear Beer,Euro Pale Lager,1,1.0,
+1649,74488,765,Trafalgar India Ink Black Pale Ale,American Black Ale,10,3.0,0.7071067811865476
+1650,74536,22430,Omnom,American Blonde Ale,1,4.0,
+1651,74545,24445,Mini Mojo Belgian Style Abbey Dubbel,Dubbel,2,4.0,0.0
+1652,74651,2188,Unas Mas! (Simcoe Hops),English Pale Ale,2,4.0,0.7071067811865476
+1653,74657,1199,Founders Cascade Harvest,American IPA,2,3.75,0.3535533905932738
+1654,74675,26990,Coco Loco,American Porter,5,4.1,0.22360679774997907
+1655,74676,26990,Ramble On Red,American Amber / Red Ale,3,4.166666666666667,0.28867513459481275
+1656,74683,26990,NoDa Rye Z'd,American Double / Imperial IPA,2,4.25,0.3535533905932738
+1657,74723,13905,Pale Ale Imperiale,American Double / Imperial IPA,1,3.0,
+1658,74753,13905,Canneberge Oak Aged,Fruit / Vegetable Beer,2,3.75,0.3535533905932738
+1659,74768,14365,Log Towne Lager,American Pale Lager,1,3.5,
+1660,74774,3268,Brown Eye PA,American Brown Ale,1,3.0,
+1661,74843,24445,Annihilator Double IPA,American Double / Imperial IPA,2,3.5,0.0
+1662,74868,14,El Mariachi,Pumpkin Ale,1,4.5,
+1663,74870,27079,Krut Gold,American Blonde Ale,1,4.0,
+1664,74880,14,Wilson,Pumpkin Ale,1,3.5,
+1665,74888,24445,Lonelier Belgian Single,Belgian Pale Ale,2,3.75,0.3535533905932738
+1666,74921,22430,Hopped #7,English Bitter,3,3.6666666666666665,0.2886751345948129
+1667,74928,22430,Witch Hop,English Bitter,1,3.5,
+1668,74998,1454,Sparky's Chocolate Milk Stout,Milk / Sweet Stout,1,4.5,
+1669,75029,24477,Very Berry Raspberry,Fruit / Vegetable Beer,1,2.0,
+1670,75030,24477,Camino Real Common,California Common / Steam Beer,1,1.0,
+1671,75031,24477,Sleepy Hollow Pumpkin Ale,Fruit / Vegetable Beer,1,2.0,
+1672,75032,24477,Great Dane Pale Ale,American Pale Ale (APA),1,1.0,
+1673,75036,24477,Valhalla IPA,American Double / Imperial IPA,1,1.0,
+1674,75063,27133,Red Ghost IPA,American IPA,1,4.0,
+1675,75087,394,Revel Red,American Amber / Red Ale,22,3.5454545454545454,0.5324939281811426
+1676,75141,5319,Black Widow Porter,American Porter,1,4.0,
+1677,75155,3403,Pontefract Liquorice Stout,English Stout,1,3.5,
+1678,75244,1386,Vanilla Stryker,American Stout,1,4.0,
+1679,75267,25684,Celtic Mater,KÃ¶lsch,1,3.0,
+1680,75342,24445,Bieber's Teabag Honey Chamomile Wheat,American Pale Wheat Ale,3,2.8333333333333335,0.28867513459481287
+1681,75343,24445,Clare's Thirsty Ale,American Double / Imperial Stout,1,4.0,
+1682,75449,1454,Centennial Pale Ale,American Pale Ale (APA),1,5.0,
+1683,75464,1417,Taste The Difference Celebration Ale,English Stout,2,4.0,0.0
+1684,75522,4103,Breznak Svetle,Czech Pilsener,1,3.0,
+1685,75683,394,Pumpkinfest Lager,MÃ¤rzen / Oktoberfest,2,3.75,0.3535533905932738
+1686,75698,1199,Founders Bitter Ol' Man,Extra Special / Strong Bitter (ESB),2,3.75,0.3535533905932738
+1687,75700,1199,Founders Corn Mountain Brown,American Brown Ale,2,3.75,0.3535533905932738
+1688,75708,26983,Toffee Porter,English Porter,1,3.5,
+1689,75728,13905,Scotch Ale Oak Aged,Scotch Ale / Wee Heavy,1,4.0,
+1690,75745,14365,Aracauna ESB,Extra Special / Strong Bitter (ESB),1,3.5,
+1691,75787,7601,Thomaskirch Schwarzbier,Schwarzbier,1,4.0,
+1692,75788,7601,Thomaskirch Pils,German Pilsener,1,4.0,
+1693,75847,18225,Belgian Double,Dubbel,1,4.0,
+1694,75848,10541,CucapÃ¡ Tequila Barrel Aged Ale,American Barleywine,1,4.5,
+1695,75850,14879,B.O.R.I.S. #100,Russian Imperial Stout,4,4.125,0.25
+1696,75856,25684,Grunge IPA,American IPA,2,2.75,0.3535533905932738
+1697,75876,1199,Founders Boss Pale Ale,American Pale Ale (APA),2,3.25,0.3535533905932738
+1698,75890,14,Simple,Belgian Pale Ale,1,3.5,
+1699,75891,14,Valley Ghoul,Scottish Ale,1,4.0,
+1700,75898,26990,"Hop, Drop ân Roll",American IPA,2,4.75,0.3535533905932738
+1701,75907,23246,Digital IPA,American IPA,11,4.090909090909091,0.3753785967647744
+1702,75940,25684,Raggea Stout,English Stout,1,3.5,
+1703,75963,11203,Java Porter,American Porter,1,3.0,
+1704,75988,2188,Tenebra,American Stout,2,4.0,0.0
+1705,75989,2188,Bees Knees Honey Ale,American Blonde Ale,1,3.5,
+1706,76111,24445,Black Betsy Imperial Black Belgian IPA,Belgian IPA,1,4.0,
+1707,76229,14,Valley Girl IPA,American IPA,2,4.25,0.3535533905932738
+1708,76265,27797,KrÃ¤ftig Light,Light Lager,2,3.25,0.3535533905932738
+1709,76417,16321,Original Lager,Euro Pale Lager,1,3.5,
+1710,76453,17783,Rainy Day IPA,American IPA,1,4.0,
+1711,76506,24445,Allocution,American Double / Imperial IPA,1,4.0,
+1712,76508,26990,Naughty List,Winter Warmer,1,4.0,
+1713,76560,1199,Founders Tealow Chai Brown,American Brown Ale,3,3.6666666666666665,0.2886751345948129
+1714,76668,26990,Santa Baby,Winter Warmer,1,4.0,
+1715,76685,23246,Red Rackham,American Amber / Red Ale,1,4.0,
+1716,76694,1199,Founders Ziffy Whomper,Winter Warmer,2,3.25,0.3535533905932738
+1717,76696,1199,Founders Frangelic Porter,American Porter,3,4.5,0.0
+1718,76766,26990,10 Blocks South,American Pale Ale (APA),1,3.5,
+1719,76780,2446,The Hooligan King,Scotch Ale / Wee Heavy,1,4.5,
+1720,76810,24445,Clare's Right Hook - Cocoa Nibs,American Barleywine,3,4.166666666666667,0.28867513459481275
+1721,76963,1075,Coconut Porter,American Porter,1,4.0,
+1722,76995,24445,Clare's Right Hook - Lemon Zest,American Barleywine,2,4.5,0.0
+1723,76996,24445,Angrier Birds Imperial Belgian Rye IPA,Belgian IPA,2,3.75,0.3535533905932738
+1724,76997,24445,Fruitier Angrier Birds American Belgo Rye IPA,Belgian IPA,2,3.75,0.3535533905932738
+1725,76998,24445,MAD Essen Style Belgian Wheat,Belgian Pale Ale,1,4.5,
+1726,76999,24445,Uber Mathias,American Double / Imperial Stout,1,4.5,
+1727,77116,24445,Hogbutcher Belgian IPA,Belgian IPA,1,4.0,
+1728,77198,27021,Boxcar Porter,American Porter,1,4.0,
+1729,77199,27021,Hat Trick Tripel,Tripel,1,3.5,
+1730,77207,13905,Black IPA,American Black Ale,1,5.0,
